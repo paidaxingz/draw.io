@@ -1,9 +1,42 @@
-<mxfile host="app.diagrams.net" modified="2024-04-10T06:27:48.633Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" version="24.2.3" etag="zeLH8XYxJswD0X7mA4eD" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-10T06:55:19.107Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="Ssm7wrP0uq9s0hmZ5iS-" version="24.2.3" type="github">
   <diagram name="第 1 页" id="Y7CDtnoHRregV-K79MwY">
-    <mxGraphModel>
+    <mxGraphModel dx="1050" dy="522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="uNvEn_o5aQrPS3u_5n39-3" value="药品信息表" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="310" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="uNvEn_o5aQrPS3u_5n39-4" value="药品Id" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="60" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uNvEn_o5aQrPS3u_5n39-5" value="药品名称" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="445" y="160" width="135" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uNvEn_o5aQrPS3u_5n39-6" value="药品规格" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="250" width="135" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uNvEn_o5aQrPS3u_5n39-7" value="药品定价" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="350" width="135" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uNvEn_o5aQrPS3u_5n39-9" value="药品剂型" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="450" width="135" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uNvEn_o5aQrPS3u_5n39-10" value="生产厂家" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="550" width="135" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uNvEn_o5aQrPS3u_5n39-11" value="所属分类" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="640" width="135" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uNvEn_o5aQrPS3u_5n39-12" value="药品分类" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="730" width="135" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uNvEn_o5aQrPS3u_5n39-13" value="批准文号" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="830" width="135" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uNvEn_o5aQrPS3u_5n39-14" value="是否可用" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="910" width="135" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
