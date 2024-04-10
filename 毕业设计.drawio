@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-10T08:44:54.915Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="rjlVh5jyHEv4la6rIHS4" version="24.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-10T09:08:50.100Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="Snr0lYpBv_GFOJlMGDFC" version="24.2.3" type="github">
   <diagram name="第 1 页" id="Y7CDtnoHRregV-K79MwY">
     <mxGraphModel dx="1050" dy="522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -58,9 +58,6 @@
         <mxCell id="uNvEn_o5aQrPS3u_5n39-24" value="库存数量" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="510" y="1950" width="135" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="uNvEn_o5aQrPS3u_5n39-25" value="药品进价" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="510" y="2030" width="135" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="uNvEn_o5aQrPS3u_5n39-26" value="药品有效期" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="510" y="2120" width="135" height="60" as="geometry" />
         </mxCell>
@@ -69,6 +66,9 @@
         </mxCell>
         <mxCell id="uNvEn_o5aQrPS3u_5n39-28" value="药品过期预警线" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="510" y="2311" width="135" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IawREKdSniu1c2MqUzBP-1" value="库房信息" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="1300" width="135" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
