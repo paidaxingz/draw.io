@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-12T13:13:50.687Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="TgEYj6TmKE6uMT1q-GkM" version="24.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-12T13:26:57.684Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="Jjzfdna2rubRIP-01Rug" version="24.2.3" type="github">
   <diagram name="第 1 页" id="Y7CDtnoHRregV-K79MwY">
     <mxGraphModel dx="1050" dy="522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -102,9 +102,6 @@
         </mxCell>
         <mxCell id="Ox53wg2BttiBI1HnKK6z-11" value="申请人姓名" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="3600" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="Ox53wg2BttiBI1HnKK6z-12" value="药品单价" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="550" y="2780" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
