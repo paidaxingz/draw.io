@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-12T13:29:12.730Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="b_lF-BQC6Ao7VjaCoGiN" version="24.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-14T07:26:20.139Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="-4xlnV3sTTqFqi2UuE02" version="24.2.5" type="github">
   <diagram name="第 1 页" id="Y7CDtnoHRregV-K79MwY">
-    <mxGraphModel dx="1050" dy="522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="1313" dy="653" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -70,41 +70,83 @@
         <mxCell id="IawREKdSniu1c2MqUzBP-1" value="库房信息" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="500" y="1300" width="135" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Ox53wg2BttiBI1HnKK6z-1" value="药品出库" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Ox53wg2BttiBI1HnKK6z-1" value="药品出库" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="130" y="2950" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Ox53wg2BttiBI1HnKK6z-2" value="出库ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Ox53wg2BttiBI1HnKK6z-2" value="出库ID" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="635" y="2680" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Ox53wg2BttiBI1HnKK6z-3" value="药品ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Ox53wg2BttiBI1HnKK6z-3" value="药品ID" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="635" y="2820" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Ox53wg2BttiBI1HnKK6z-4" value="药品规格" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Ox53wg2BttiBI1HnKK6z-4" value="药品规格" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="420" y="2800" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Ox53wg2BttiBI1HnKK6z-5" value="药品批号" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="635" y="2980" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="Ox53wg2BttiBI1HnKK6z-6" value="出库数量" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Ox53wg2BttiBI1HnKK6z-6" value="出库数量" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="420" y="3050" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Ox53wg2BttiBI1HnKK6z-8" value="出库药房" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Ox53wg2BttiBI1HnKK6z-8" value="出库药房" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="420" y="3170" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Ox53wg2BttiBI1HnKK6z-9" value="出库日期" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Ox53wg2BttiBI1HnKK6z-9" value="出库日期" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="420" y="3420" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Ox53wg2BttiBI1HnKK6z-10" value="药品有效期" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Ox53wg2BttiBI1HnKK6z-10" value="药品有效期" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="635" y="3310" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Ox53wg2BttiBI1HnKK6z-11" value="申请人姓名" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Ox53wg2BttiBI1HnKK6z-11" value="申请人姓名" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="420" y="3300" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Ox53wg2BttiBI1HnKK6z-13" value="药品名称" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Ox53wg2BttiBI1HnKK6z-13" value="药品名称" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="420" y="2680" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Ox53wg2BttiBI1HnKK6z-14" value="生产厂家" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Ox53wg2BttiBI1HnKK6z-14" value="生产厂家" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="420" y="2920" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hiTzJgxg-7RiszniPESO-2" value="药品入库" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="4030" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hiTzJgxg-7RiszniPESO-3" value="入库ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="645" y="3660" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hiTzJgxg-7RiszniPESO-4" value="药品ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="645" y="3800" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hiTzJgxg-7RiszniPESO-5" value="药品规格" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="3780" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hiTzJgxg-7RiszniPESO-6" value="入库数量" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="4030" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hiTzJgxg-7RiszniPESO-7" value="库房地址" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="4150" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hiTzJgxg-7RiszniPESO-8" value="入库日期" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="4530" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hiTzJgxg-7RiszniPESO-9" value="药品有效期" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="645" y="4260" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hiTzJgxg-7RiszniPESO-10" value="申请人姓名" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="4280" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hiTzJgxg-7RiszniPESO-11" value="药品名称" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="3660" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hiTzJgxg-7RiszniPESO-12" value="生产厂家" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="3900" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hiTzJgxg-7RiszniPESO-13" value="药品供应商" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="4400" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hiTzJgxg-7RiszniPESO-14" value="药品供应商ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="645" y="3980" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hiTzJgxg-7RiszniPESO-15" value="药品单价" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="4640" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hiTzJgxg-7RiszniPESO-16" value="药品剂型" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="4750" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
