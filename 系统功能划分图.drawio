@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="6oeOpXHd_85O13Avmvx9-1" value="&lt;div style=&quot;&quot;&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 16px; line-height: 140%;&quot; color=&quot;#24292f&quot;&gt;&lt;div&gt;Home Page - 首页&lt;/div&gt;&lt;div&gt;Customer Management - 客户管理&lt;/div&gt;&lt;div&gt;Customer Credit Ratings - 客户信用评级&lt;/div&gt;&lt;div&gt;Business Processing - 业务处理&lt;/div&gt;&lt;div&gt;Collateral Management - 抵押品管理&lt;/div&gt;&lt;div&gt;Post-loan Management - 贷后管理&lt;/div&gt;&lt;div&gt;Comprehensive Query - 综合查询&lt;/div&gt;&lt;div&gt;Marketing Management - 市场营销管理&lt;/div&gt;&lt;div&gt;Product Management - 产品管理&lt;/div&gt;&lt;div&gt;Platform Management - 平台管理&lt;/div&gt;&lt;div&gt;Trial Calculator Widget - 试算器小工具&lt;/div&gt;&lt;div&gt;Cooperation Management - 合作管理&lt;/div&gt;&lt;div&gt;Credit Limit Control - 信用额度控制&lt;/div&gt;&lt;div&gt;Decision-making Risk Control - 决策风险控制&lt;/div&gt;&lt;div&gt;Collection Management - 催收管理&lt;/div&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="90" y="1270" width="350" height="360" as="geometry" />
+          <mxGeometry x="40" y="1270" width="350" height="360" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
