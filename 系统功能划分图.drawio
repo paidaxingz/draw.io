@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.3">
   <diagram name="第 1 页" id="MvojczaCaQGZTlGFvLy0">
-    <mxGraphModel dx="1764" dy="1018" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="8800" pageHeight="9020" math="0" shadow="0">
+    <mxGraphModel dx="3970" dy="2460" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="12000" pageHeight="12020" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -166,8 +166,45 @@
         <mxCell id="4PH8PrTR-OJsr0mPybO9-33" value="贷后" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=36;" parent="1" vertex="1">
           <mxGeometry x="2220" y="4705" width="140" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="2q1MSqpzF95D1At2pbM9-2" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;用户中心&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="5220" y="3880" width="400" height="370" as="geometry" />
+        <mxCell id="2q1MSqpzF95D1At2pbM9-8" value="&lt;div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 34px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;&lt;font style=&quot;font-size: 34px;&quot;&gt;个人/信用群体管理&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 34px;&quot;&gt;风险名单、白名单&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 34px;&quot;&gt;特殊项调整、客户共享、客户管户权管理&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 34px;&quot;&gt;客户营销登记、客户360全景视图&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#0071D5;html=1;whiteSpace=wrap;fillColor=#0085FC;fontColor=#ffffff;verticalAlign=top;align=left;spacing=30;spacingBottom=0;fontSize=14;textShadow=0;labelBackgroundColor=none;horizontal=1;spacingTop=35;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="4970" y="3830" width="550" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="2q1MSqpzF95D1At2pbM9-9" value="&lt;font style=&quot;font-size: 50px;&quot;&gt;用户中心&lt;/font&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.topButton;rSize=5;perimeter=none;whiteSpace=wrap;fillColor=#0081F4;strokeColor=#0071D5;fontColor=#ffffff;resizeWidth=1;fontSize=18;align=center;spacing=20;" vertex="1" parent="2q1MSqpzF95D1At2pbM9-8">
+          <mxGeometry x="415" width="538.54" height="70" relative="1" as="geometry">
+            <mxPoint x="11" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2q1MSqpzF95D1At2pbM9-10" value="&lt;div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 34px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;font-size: 34px;&quot;&gt;合约统一视图&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 34px;&quot;&gt;合约模板&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 34px;&quot;&gt;合约管理&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 34px;&quot;&gt;合约的关系与控制&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#0071D5;html=1;whiteSpace=wrap;fillColor=#0085FC;fontColor=#ffffff;verticalAlign=top;align=left;spacing=30;spacingBottom=0;fontSize=14;textShadow=0;labelBackgroundColor=none;horizontal=1;spacingTop=35;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="5720" y="3830" width="550" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="2q1MSqpzF95D1At2pbM9-11" value="&lt;font style=&quot;font-size: 50px;&quot;&gt;合约中心&lt;/font&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.topButton;rSize=5;perimeter=none;whiteSpace=wrap;fillColor=#0081F4;strokeColor=#0071D5;fontColor=#ffffff;resizeWidth=1;fontSize=18;align=center;spacing=20;" vertex="1" parent="2q1MSqpzF95D1At2pbM9-10">
+          <mxGeometry x="494" width="538.54" height="70" relative="1" as="geometry">
+            <mxPoint x="11" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2q1MSqpzF95D1At2pbM9-12" value="&lt;div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 34px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;&lt;font style=&quot;font-size: 34px;&quot;&gt;个人评级&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 34px;&quot;&gt;评级模板管理、财务指标、非财务指标&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 34px;&quot;&gt;评级查阅&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#0071D5;html=1;whiteSpace=wrap;fillColor=#0085FC;fontColor=#ffffff;verticalAlign=top;align=left;spacing=30;spacingBottom=0;fontSize=14;textShadow=0;labelBackgroundColor=none;horizontal=1;spacingTop=35;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="6460" y="3830" width="550" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="2q1MSqpzF95D1At2pbM9-13" value="&lt;font style=&quot;font-size: 50px;&quot;&gt;评级中心&lt;/font&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.topButton;rSize=5;perimeter=none;whiteSpace=wrap;fillColor=#0081F4;strokeColor=#0071D5;fontColor=#ffffff;resizeWidth=1;fontSize=18;align=center;spacing=20;" vertex="1" parent="2q1MSqpzF95D1At2pbM9-12">
+          <mxGeometry x="573" width="538.54" height="70" relative="1" as="geometry">
+            <mxPoint x="11" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2q1MSqpzF95D1At2pbM9-14" value="&lt;div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 34px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;font-size: 34px;&quot;&gt;基础产品模型、模板管理&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 34px;&quot;&gt;可售产品模板、审核、产品目录、产品配置&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 34px;&quot;&gt;产品检查资料、核实项、产品协议&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 34px;&quot;&gt;授信产品、调查报告、贷款用途管理&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 34px;&quot;&gt;个人消费贷、汽车贷、精装贷、毛坯装修贷、农机贷、光伏贷等&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 34px;&quot;&gt;线上联合贷款、类信用卡业务&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#0071D5;html=1;whiteSpace=wrap;fillColor=#0085FC;fontColor=#ffffff;verticalAlign=top;align=left;spacing=30;spacingBottom=0;fontSize=14;textShadow=0;labelBackgroundColor=none;horizontal=1;spacingTop=35;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="7210" y="3830" width="1060" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="2q1MSqpzF95D1At2pbM9-15" value="&lt;font style=&quot;font-size: 50px;&quot;&gt;合约中心&lt;/font&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.topButton;rSize=5;perimeter=none;whiteSpace=wrap;fillColor=#0081F4;strokeColor=#0071D5;fontColor=#ffffff;resizeWidth=1;fontSize=18;align=center;spacing=20;" vertex="1" parent="2q1MSqpzF95D1At2pbM9-14">
+          <mxGeometry x="302" width="1037.9134545454544" height="70" relative="1" as="geometry">
+            <mxPoint x="11" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2q1MSqpzF95D1At2pbM9-16" value="&lt;div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 34px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;font-size: 34px;&quot;&gt;营销工具、标签管理&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 34px;&quot;&gt;营销活动、认定结果管理&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 34px;&quot;&gt;营销分析、营销跟踪&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#0071D5;html=1;whiteSpace=wrap;fillColor=#0085FC;fontColor=#ffffff;verticalAlign=top;align=left;spacing=30;spacingBottom=0;fontSize=14;textShadow=0;labelBackgroundColor=none;horizontal=1;spacingTop=35;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="8470" y="3830" width="550" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="2q1MSqpzF95D1At2pbM9-17" value="&lt;font style=&quot;font-size: 50px;&quot;&gt;营销中心&lt;/font&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.topButton;rSize=5;perimeter=none;whiteSpace=wrap;fillColor=#0081F4;strokeColor=#0071D5;fontColor=#ffffff;resizeWidth=1;fontSize=18;align=center;spacing=20;" vertex="1" parent="2q1MSqpzF95D1At2pbM9-16">
+          <mxGeometry width="538.54" height="70" relative="1" as="geometry">
+            <mxPoint x="11" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
