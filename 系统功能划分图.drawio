@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.3">
   <diagram name="第 1 页" id="MvojczaCaQGZTlGFvLy0">
-    <mxGraphModel dx="2647" dy="1527" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="12000" pageHeight="12020" math="0" shadow="0">
+    <mxGraphModel dx="1323" dy="763" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="12000" pageHeight="12020" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -136,22 +136,22 @@
             <mxPoint x="3120" y="5069.17" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4PH8PrTR-OJsr0mPybO9-20" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;催收&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+        <mxCell id="4PH8PrTR-OJsr0mPybO9-20" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;催收&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="2660" y="5220" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4PH8PrTR-OJsr0mPybO9-21" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;贷款核销&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+        <mxCell id="4PH8PrTR-OJsr0mPybO9-21" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;贷款核销&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="2890" y="5220" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4PH8PrTR-OJsr0mPybO9-22" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;结清销户&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+        <mxCell id="4PH8PrTR-OJsr0mPybO9-22" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;结清销户&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="3120" y="5220" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4PH8PrTR-OJsr0mPybO9-25" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" edge="1">
+        <mxCell id="4PH8PrTR-OJsr0mPybO9-25" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#ffe6cc;strokeColor=none;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="2800" y="5249.17" as="sourcePoint" />
             <mxPoint x="2890" y="5249.17" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4PH8PrTR-OJsr0mPybO9-28" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" edge="1">
+        <mxCell id="4PH8PrTR-OJsr0mPybO9-28" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#ffe6cc;strokeColor=none;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="3030" y="5249.17" as="sourcePoint" />
             <mxPoint x="3120" y="5249.17" as="targetPoint" />
