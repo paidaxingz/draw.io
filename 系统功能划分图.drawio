@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.3">
   <diagram name="第 1 页" id="MvojczaCaQGZTlGFvLy0">
-    <mxGraphModel dx="1134" dy="654" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="12000" pageHeight="12020" math="0" shadow="0">
+    <mxGraphModel dx="1985" dy="1145" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="12000" pageHeight="12020" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -362,31 +362,34 @@
         <mxCell id="_ae2DRoCWb5eLgPgeb8F-34" value="&lt;span style=&quot;font-size: 56px;&quot;&gt;服务发现&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=24;rotation=35;" parent="1" vertex="1">
           <mxGeometry x="7090" y="2130" width="250" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="jCPicYwu-KxKCB7Jggrb-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jCPicYwu-KxKCB7Jggrb-1" target="jCPicYwu-KxKCB7Jggrb-5">
+        <mxCell id="jCPicYwu-KxKCB7Jggrb-1" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;前端&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="640" y="5500" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jCPicYwu-KxKCB7Jggrb-2" value="&lt;br&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(34, 25, 27); font-family: system-ui, sans-serif; text-align: start; text-wrap-mode: wrap; background-color: rgb(255, 251, 255);&quot;&gt;http://localhost:9010/SUMP/icmcall/icmRPCCall&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="850" y="5490" width="300" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="M8loxHW2GyvZ702CYPZt-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="jCPicYwu-KxKCB7Jggrb-5" target="jCPicYwu-KxKCB7Jggrb-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jCPicYwu-KxKCB7Jggrb-1" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;前端&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="810" y="5150" width="120" height="60" as="geometry" />
+        <mxCell id="jCPicYwu-KxKCB7Jggrb-5" value="&lt;font style=&quot;font-size: 39px;&quot;&gt;inmp&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="1190" y="5430" width="890" height="1130" as="geometry" />
         </mxCell>
-        <mxCell id="jCPicYwu-KxKCB7Jggrb-2" value="&lt;br&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(34, 25, 27); font-family: system-ui, sans-serif; text-align: start; text-wrap-mode: wrap; background-color: rgb(255, 251, 255);&quot;&gt;http://localhost:9010/SUMP/icmcall/icmRPCCall&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="720" y="5235" width="300" height="40" as="geometry" />
+        <mxCell id="jCPicYwu-KxKCB7Jggrb-7" value="&lt;font&gt;&lt;br&gt;&lt;/font&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(34, 25, 27); font-family: system-ui, sans-serif; text-align: start; text-wrap-mode: wrap; background-color: rgb(255, 251, 255);&quot;&gt;&lt;font&gt;http://localhost:9021/us8888&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=23;" parent="1" vertex="1">
+          <mxGeometry x="2140" y="6300" width="340" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="jCPicYwu-KxKCB7Jggrb-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="jCPicYwu-KxKCB7Jggrb-5">
+        <mxCell id="jCPicYwu-KxKCB7Jggrb-10" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;us&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="2560" y="6320" width="280" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="M8loxHW2GyvZ702CYPZt-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="jCPicYwu-KxKCB7Jggrb-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="869.5294117647059" y="5550" as="targetPoint" />
+            <mxPoint x="1190" y="5542" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="810" y="5542" />
+            </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="jCPicYwu-KxKCB7Jggrb-5" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;inmp&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="730" y="5320" width="280" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="jCPicYwu-KxKCB7Jggrb-6" value="加工" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="810" y="5360" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="jCPicYwu-KxKCB7Jggrb-7" value="&lt;br&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(34, 25, 27); font-family: system-ui, sans-serif; text-align: start; text-wrap-mode: wrap; background-color: rgb(255, 251, 255);&quot;&gt;http://localhost:9021/us8888&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="785" y="5480" width="190" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="jCPicYwu-KxKCB7Jggrb-10" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;us&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="810" y="5550" width="120" height="60" as="geometry" />
+        <mxCell id="M8loxHW2GyvZ702CYPZt-5" value="&lt;pre style=&quot;background-color: rgb(255, 255, 255); color: rgb(8, 8, 8);&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;&lt;font style=&quot;font-size: 26px;&quot; face=&quot;Helvetica&quot;&gt;ICMRPCCallController&lt;/font&gt;&lt;/span&gt;&lt;/pre&gt;&lt;pre style=&quot;background-color: rgb(255, 255, 255); color: rgb(8, 8, 8);&quot;&gt;&lt;pre style=&quot;&quot;&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 19px;&quot;&gt;&lt;span style=&quot;color: rgb(0, 51, 179);&quot;&gt;public &lt;/span&gt;&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;Map&lt;/span&gt;&amp;lt;&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;String&lt;/span&gt;, &lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;Object&lt;/span&gt;&amp;gt; &lt;span style=&quot;color: rgb(0, 98, 122);&quot;&gt;ICMSRPCCall(){&lt;/span&gt;&lt;/font&gt;&lt;/pre&gt;&lt;pre style=&quot;&quot;&gt;&lt;pre style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Helvetica&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;map &lt;/span&gt;= &lt;span style=&quot;color: rgb(135, 16, 148);&quot;&gt;client&lt;/span&gt;.callClient(reqmap.get(&lt;span style=&quot;color: rgb(6, 125, 23);&quot;&gt;&quot;servicecode&quot;&lt;/span&gt;).toString(), reqmap);&lt;/font&gt;&lt;/pre&gt;&lt;/pre&gt;&lt;pre style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Helvetica&quot;&gt;&lt;span style=&quot;color: rgb(0, 98, 122);&quot;&gt;}&lt;/span&gt;&lt;/font&gt;&lt;/pre&gt;&lt;/pre&gt;" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="1395" y="5530" width="520" height="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
