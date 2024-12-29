@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.1">
   <diagram name="第 1 页" id="MvojczaCaQGZTlGFvLy0">
-    <mxGraphModel dx="1985" dy="1145" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="12000" pageHeight="12020" math="0" shadow="0">
+    <mxGraphModel dx="3176" dy="1832" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="12000" pageHeight="12020" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -405,6 +405,9 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1656" y="6180" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Y85G3jcZCbOq-ubIuzlO-7" value="&lt;font style=&quot;font-size: 41px;&quot;&gt;前端发起请求到inmp转发中心，调用client.callClient方法，实际调用RestLttsConnImpl的sendMsg方法进行请求转发，根据appId，将url的服务器地址改成后端服务器地址&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="5825" width="650" height="305" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
