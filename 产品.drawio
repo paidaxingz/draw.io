@@ -1,9 +1,42 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.2">
   <diagram name="第 1 页" id="MIdxW0iAy76v2udcEPpv">
-    <mxGraphModel>
+    <mxGraphModel dx="1059" dy="611" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="12000" pageHeight="12020" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="NP_UxPjjWaujs7-5Nlzi-12" value="产品模板" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="1610" y="10860" width="340" height="410" as="geometry" />
+        </mxCell>
+        <mxCell id="NP_UxPjjWaujs7-5Nlzi-1" value="基础部件" style="rounded=0;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="11040" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="NP_UxPjjWaujs7-5Nlzi-2" value="计息部件" style="rounded=0;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="11130" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="NP_UxPjjWaujs7-5Nlzi-3" value="还款部件" style="rounded=0;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="11220" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="NP_UxPjjWaujs7-5Nlzi-4" value="基础模板原型" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="1320" y="10970" width="220" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="NP_UxPjjWaujs7-5Nlzi-7" value="基础部件" style="rounded=0;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="1365" y="11040" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="NP_UxPjjWaujs7-5Nlzi-8" value="计息部件" style="rounded=0;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="1365" y="11150" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="NP_UxPjjWaujs7-5Nlzi-9" value="基础模板原型" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="1660" y="10917.5" width="220" height="202.5" as="geometry" />
+        </mxCell>
+        <mxCell id="NP_UxPjjWaujs7-5Nlzi-10" value="基础部件" style="rounded=0;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="1705" y="10970" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="NP_UxPjjWaujs7-5Nlzi-11" value="计息部件" style="rounded=0;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="1705" y="11040" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="NP_UxPjjWaujs7-5Nlzi-13" value="还款部件" style="rounded=0;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="1715" y="11170" width="130" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
