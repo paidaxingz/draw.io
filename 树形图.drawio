@@ -1,9 +1,116 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.2">
   <diagram name="第 1 页" id="vk5Rn71FzpSc62bha3o2">
-    <mxGraphModel>
+    <mxGraphModel dx="1222" dy="705" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="12000" pageHeight="12020" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="_oZtq9U2relQCqmBTi4o-1" value="贷款" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontSize=18;fillColor=#f8cecc;strokeColor=#b85450;gradientColor=#ea6b66;" vertex="1" parent="1">
+          <mxGeometry x="95" y="100" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_oZtq9U2relQCqmBTi4o-2" value="" style="edgeStyle=orthogonalEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;exitDx=0;exitDy=0;fontSize=18;fillColor=#b1ddf0;strokeColor=#10739e;" edge="1" parent="1" source="_oZtq9U2relQCqmBTi4o-3" target="_oZtq9U2relQCqmBTi4o-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="3370" y="9750" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="70" y="80" />
+              <mxPoint x="70" y="130" />
+              <mxPoint x="95" y="130" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_oZtq9U2relQCqmBTi4o-3" value="产品类型" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontSize=18;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" vertex="1" parent="1">
+          <mxGeometry x="20" y="20" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_oZtq9U2relQCqmBTi4o-12" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;exitX=0.75;exitY=1;exitDx=0;exitDy=0;fontSize=18;fillColor=#b1ddf0;strokeColor=#10739e;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="205" y="660" as="sourcePoint" />
+            <mxPoint x="205.33333333333348" y="660" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_oZtq9U2relQCqmBTi4o-21" value="授信" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontSize=18;fillColor=#f8cecc;strokeColor=#b85450;gradientColor=#ea6b66;" vertex="1" parent="1">
+          <mxGeometry x="95" y="580" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_oZtq9U2relQCqmBTi4o-22" value="" style="edgeStyle=orthogonalEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;exitDx=0;exitDy=0;exitPerimeter=0;fontSize=18;fillColor=#b1ddf0;strokeColor=#10739e;" edge="1" target="_oZtq9U2relQCqmBTi4o-21" parent="1" source="_oZtq9U2relQCqmBTi4o-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="70" y="130" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="70" y="80" />
+              <mxPoint x="70" y="130" />
+              <mxPoint x="70" y="610" />
+              <mxPoint x="95" y="610" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_oZtq9U2relQCqmBTi4o-25" value="贷款申请" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontSize=18;fillColor=#e6d0de;strokeColor=#996185;gradientColor=#d5739d;" vertex="1" parent="1">
+          <mxGeometry x="170" y="180" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_oZtq9U2relQCqmBTi4o-26" value="" style="edgeStyle=orthogonalEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;exitDx=0;exitDy=0;fontSize=18;fillColor=#b1ddf0;strokeColor=#10739e;" edge="1" target="_oZtq9U2relQCqmBTi4o-25" parent="1" source="_oZtq9U2relQCqmBTi4o-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="195" y="200" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="145" y="160" />
+              <mxPoint x="145" y="210" />
+              <mxPoint x="170" y="210" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_oZtq9U2relQCqmBTi4o-33" value="审批流程" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontSize=18;fillColor=#ffcd28;strokeColor=#d79b00;gradientColor=#ffa500;" vertex="1" parent="1">
+          <mxGeometry x="245" y="260" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_oZtq9U2relQCqmBTi4o-34" value="" style="edgeStyle=orthogonalEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;exitDx=0;exitDy=0;fontSize=18;fillColor=#b1ddf0;strokeColor=#10739e;" edge="1" target="_oZtq9U2relQCqmBTi4o-33" parent="1" source="_oZtq9U2relQCqmBTi4o-25">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="320" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="220" y="240" />
+              <mxPoint x="220" y="290" />
+              <mxPoint x="245" y="290" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_oZtq9U2relQCqmBTi4o-36" value="贷款属性" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontSize=18;fillColor=#ffcd28;strokeColor=#d79b00;gradientColor=#ffa500;" vertex="1" parent="1">
+          <mxGeometry x="245" y="340" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_oZtq9U2relQCqmBTi4o-37" value="" style="edgeStyle=orthogonalEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;exitDx=0;exitDy=0;fontSize=18;fillColor=#b1ddf0;strokeColor=#10739e;" edge="1" target="_oZtq9U2relQCqmBTi4o-36" parent="1" source="_oZtq9U2relQCqmBTi4o-25">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="250" y="370" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="220" y="240" />
+              <mxPoint x="220" y="290" />
+              <mxPoint x="220" y="370" />
+              <mxPoint x="245" y="370" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_oZtq9U2relQCqmBTi4o-38" value="合规条件" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontSize=18;fillColor=#ffcd28;strokeColor=#d79b00;gradientColor=#ffa500;" vertex="1" parent="1">
+          <mxGeometry x="245" y="420" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_oZtq9U2relQCqmBTi4o-39" value="" style="edgeStyle=orthogonalEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;exitDx=0;exitDy=0;fontSize=18;fillColor=#b1ddf0;strokeColor=#10739e;" edge="1" target="_oZtq9U2relQCqmBTi4o-38" parent="1" source="_oZtq9U2relQCqmBTi4o-25">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="295" y="500" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="220" y="240" />
+              <mxPoint x="220" y="290" />
+              <mxPoint x="220" y="370" />
+              <mxPoint x="220" y="450" />
+              <mxPoint x="245" y="450" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_oZtq9U2relQCqmBTi4o-40" value="协议模板" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontSize=18;fillColor=#ffcd28;strokeColor=#d79b00;gradientColor=#ffa500;" vertex="1" parent="1">
+          <mxGeometry x="245" y="500" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_oZtq9U2relQCqmBTi4o-41" value="" style="edgeStyle=orthogonalEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;exitDx=0;exitDy=0;fontSize=18;fillColor=#b1ddf0;strokeColor=#10739e;" edge="1" target="_oZtq9U2relQCqmBTi4o-40" parent="1" source="_oZtq9U2relQCqmBTi4o-25">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="170" y="440" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="220" y="240" />
+              <mxPoint x="220" y="290" />
+              <mxPoint x="220" y="370" />
+              <mxPoint x="220" y="450" />
+              <mxPoint x="220" y="530" />
+              <mxPoint x="245" y="530" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
