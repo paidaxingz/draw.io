@@ -136,9 +136,6 @@
         <mxCell id="YQc1DgkAYRUK1QTXF2l9-30" value="tsp_task_execution_log&lt;div&gt;任务执行日志&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=51;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" vertex="1" parent="1">
           <mxGeometry x="8145" y="6520" width="710" height="220" as="geometry" />
         </mxCell>
-        <mxCell id="YQc1DgkAYRUK1QTXF2l9-37" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3160" y="6630" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="YQc1DgkAYRUK1QTXF2l9-38" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
           <mxGeometry x="1390" y="6270" width="120" height="60" as="geometry" />
         </mxCell>
