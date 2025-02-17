@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.11">
   <diagram name="第 1 页" id="MIdxW0iAy76v2udcEPpv">
-    <mxGraphModel dx="1985" dy="1145" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="39000" pageHeight="19020" math="0" shadow="0">
+    <mxGraphModel dx="3970" dy="2290" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="39000" pageHeight="19020" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -519,6 +519,30 @@
         </mxCell>
         <mxCell id="QOz539S1Ob1OmsDwYjE3-8" value="&lt;font&gt;ctb_branch&lt;/font&gt;&lt;div&gt;机构表&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=38;" vertex="1" parent="1">
           <mxGeometry x="13570" y="8220" width="380" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="QOz539S1Ob1OmsDwYjE3-24" value="&lt;font&gt;ctp_menu&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=38;" vertex="1" parent="1">
+          <mxGeometry x="16520" y="8600" width="380" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="QOz539S1Ob1OmsDwYjE3-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="QOz539S1Ob1OmsDwYjE3-25">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="15340" y="8675" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QOz539S1Ob1OmsDwYjE3-30" value="role_id" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=35;" vertex="1" connectable="0" parent="QOz539S1Ob1OmsDwYjE3-26">
+          <mxGeometry x="-0.0194" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QOz539S1Ob1OmsDwYjE3-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="QOz539S1Ob1OmsDwYjE3-25" target="QOz539S1Ob1OmsDwYjE3-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QOz539S1Ob1OmsDwYjE3-31" value="menu_id" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=35;" vertex="1" connectable="0" parent="QOz539S1Ob1OmsDwYjE3-27">
+          <mxGeometry x="0.0852" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QOz539S1Ob1OmsDwYjE3-25" value="&lt;font&gt;ctp_role_menu&lt;/font&gt;&lt;div&gt;角色菜单分配表&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=38;" vertex="1" parent="1">
+          <mxGeometry x="15720" y="8600" width="380" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
