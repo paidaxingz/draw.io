@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.11">
   <diagram name="第 1 页" id="MIdxW0iAy76v2udcEPpv">
-    <mxGraphModel dx="2269" dy="1309" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="39000" pageHeight="19020" math="0" shadow="0">
+    <mxGraphModel dx="1444" dy="833" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="39000" pageHeight="19020" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -475,6 +475,12 @@
         </mxCell>
         <mxCell id="QOz539S1Ob1OmsDwYjE3-3" value="用户、菜单、角色关系图" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=50;" vertex="1" parent="1">
           <mxGeometry x="14110" y="7900" width="680" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="QOz539S1Ob1OmsDwYjE3-4" value="&lt;font&gt;ctb_user&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=38;" vertex="1" parent="1">
+          <mxGeometry x="13683" y="8240" width="380" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="QOz539S1Ob1OmsDwYjE3-5" value="&lt;font&gt;ctb_user_belong&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=38;" vertex="1" parent="1">
+          <mxGeometry x="14290" y="8240" width="380" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
