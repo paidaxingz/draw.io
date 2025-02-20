@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.5">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.15">
   <diagram name="第 1 页" id="hDznOmspNLXuFY7Vz14z">
-    <mxGraphModel dx="5293" dy="3053" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="12000" pageHeight="12020" math="0" shadow="0">
+    <mxGraphModel dx="3970" dy="2290" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="12000" pageHeight="12020" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="smOgPJJVA1B-rf7zjsw_-1" value="SequenceManager" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=57;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="smOgPJJVA1B-rf7zjsw_-1" value="SequenceManager" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=57;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="2920" y="10110" width="2740" height="1510" as="geometry" />
         </mxCell>
         <mxCell id="hh-tF9EPw7Lr1LySJIgO-5" value="tsp_task_execution_domain" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=100;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
@@ -86,7 +86,7 @@
         <mxCell id="YQc1DgkAYRUK1QTXF2l9-8" value="tsp_timed_task_info&lt;div&gt;定时任务表&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=51;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" parent="1" vertex="1">
           <mxGeometry x="2810" y="7300" width="710" height="220" as="geometry" />
         </mxCell>
-        <mxCell id="YQc1DgkAYRUK1QTXF2l9-9" value="tsp_schedule_log&lt;div&gt;调度日志&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=51;fillColor=#008a00;fontColor=#ffffff;strokeColor=#005700;" parent="1" vertex="1">
+        <mxCell id="YQc1DgkAYRUK1QTXF2l9-9" value="tsp_schedule_log&lt;div&gt;调度日志&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=51;fillColor=light-dark(#1ba1e2, #43ba43);fontColor=#ffffff;strokeColor=#005700;" parent="1" vertex="1">
           <mxGeometry x="2810" y="8040" width="710" height="220" as="geometry" />
         </mxCell>
         <mxCell id="YQc1DgkAYRUK1QTXF2l9-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=7;" parent="1" source="YQc1DgkAYRUK1QTXF2l9-10" target="YQc1DgkAYRUK1QTXF2l9-12" edge="1">
@@ -158,43 +158,43 @@
         <mxCell id="YQc1DgkAYRUK1QTXF2l9-41" value="&lt;span style=&quot;font-size: 100px;&quot;&gt;自动插入&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="1600" y="6445" width="420" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="smOgPJJVA1B-rf7zjsw_-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="smOgPJJVA1B-rf7zjsw_-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="3000" y="10210" width="2580" height="1340" as="geometry" />
         </mxCell>
-        <mxCell id="smOgPJJVA1B-rf7zjsw_-3" value="优雅启动" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=52;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="smOgPJJVA1B-rf7zjsw_-3" value="优雅启动" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=52;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="3130" y="10350" width="2330" height="500" as="geometry" />
         </mxCell>
-        <mxCell id="smOgPJJVA1B-rf7zjsw_-5" value="查询流水注册表&lt;div&gt;tsp_sequence_register&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=50;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="smOgPJJVA1B-rf7zjsw_-5" value="查询流水注册表&lt;div&gt;tsp_sequence_register&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=50;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="3170" y="10460" width="560" height="320" as="geometry" />
         </mxCell>
-        <mxCell id="smOgPJJVA1B-rf7zjsw_-6" value="初始化流水实例&lt;div&gt;Sequence&lt;/div&gt;&lt;div&gt;并存入缓存&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=50;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="smOgPJJVA1B-rf7zjsw_-6" value="初始化流水实例&lt;div&gt;Sequence&lt;/div&gt;&lt;div&gt;并存入缓存&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=50;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="4020" y="10460" width="560" height="320" as="geometry" />
         </mxCell>
-        <mxCell id="smOgPJJVA1B-rf7zjsw_-7" value="更改注册表状态为&lt;div&gt;using落库&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=50;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="smOgPJJVA1B-rf7zjsw_-7" value="更改注册表状态为&lt;div&gt;using落库&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=50;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="4870" y="10460" width="560" height="320" as="geometry" />
         </mxCell>
-        <mxCell id="smOgPJJVA1B-rf7zjsw_-11" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.2222171359592014;arrowSize=0.23333251953125;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="smOgPJJVA1B-rf7zjsw_-11" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.2222171359592014;arrowSize=0.23333251953125;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="4610" y="10560" width="240" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="smOgPJJVA1B-rf7zjsw_-12" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.2222171359592014;arrowSize=0.23333251953125;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="smOgPJJVA1B-rf7zjsw_-12" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.2222171359592014;arrowSize=0.23333251953125;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="3760" y="10560" width="240" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="smOgPJJVA1B-rf7zjsw_-13" value="优雅停机" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=52;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="smOgPJJVA1B-rf7zjsw_-13" value="优雅停机" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=52;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="3135" y="10970" width="2330" height="500" as="geometry" />
         </mxCell>
-        <mxCell id="smOgPJJVA1B-rf7zjsw_-14" value="从缓存中获取到&lt;div&gt;流水实例Sequence&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=50;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="smOgPJJVA1B-rf7zjsw_-14" value="从缓存中获取到&lt;div&gt;流水实例Sequence&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=50;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="3170" y="11070" width="560" height="320" as="geometry" />
         </mxCell>
-        <mxCell id="smOgPJJVA1B-rf7zjsw_-15" value="将Sequence数据信息&lt;div&gt;存入流水注册表&lt;/div&gt;&lt;div&gt;tsp_sequence_register&lt;/div&gt;&lt;div&gt;更改状态为hang(挂起)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=50;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="smOgPJJVA1B-rf7zjsw_-15" value="将Sequence数据信息&lt;div&gt;存入流水注册表&lt;/div&gt;&lt;div&gt;tsp_sequence_register&lt;/div&gt;&lt;div&gt;更改状态为hang(挂起)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=50;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="4020" y="11070" width="560" height="320" as="geometry" />
         </mxCell>
-        <mxCell id="smOgPJJVA1B-rf7zjsw_-16" value="如果数据存在编辑数据，否则新增一条" style="rounded=0;whiteSpace=wrap;html=1;fontSize=50;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="smOgPJJVA1B-rf7zjsw_-16" value="如果数据存在编辑数据，否则新增一条" style="rounded=0;whiteSpace=wrap;html=1;fontSize=50;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="4870" y="11070" width="560" height="320" as="geometry" />
         </mxCell>
-        <mxCell id="smOgPJJVA1B-rf7zjsw_-17" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.2222171359592014;arrowSize=0.23333251953125;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="smOgPJJVA1B-rf7zjsw_-17" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.2222171359592014;arrowSize=0.23333251953125;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="4610" y="11170" width="240" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="smOgPJJVA1B-rf7zjsw_-18" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.2222171359592014;arrowSize=0.23333251953125;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="smOgPJJVA1B-rf7zjsw_-18" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.2222171359592014;arrowSize=0.23333251953125;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="3760" y="11170" width="240" height="140" as="geometry" />
         </mxCell>
       </root>
