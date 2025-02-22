@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.16">
   <diagram name="第 1 页" id="3ISSW14Xh17d9ykyw0St">
-    <mxGraphModel dx="1588" dy="916" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="19000" pageHeight="19020" math="0" shadow="0">
+    <mxGraphModel dx="2647" dy="1527" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="19000" pageHeight="19020" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -141,6 +141,90 @@
         </mxCell>
         <mxCell id="adHNTlXBSxEZ484oFDG5-91" value="&lt;b&gt;Third-party Components (3 pieces)&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#3d3d3d, #ededed);fontColor=light-dark(#FFFFFF,#EDEDED);fontSize=12;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="1320" y="992.5" width="230" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="adHNTlXBSxEZ484oFDG5-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=3;strokeColor=light-dark(#1271c7, #ededed);" edge="1" parent="1" source="adHNTlXBSxEZ484oFDG5-93" target="adHNTlXBSxEZ484oFDG5-100">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="adHNTlXBSxEZ484oFDG5-93" value="Select the external evaluation method&amp;nbsp;&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=13;fillColor=light-dark(#fac090, #ededed);strokeColor=none;fontSize=28;" vertex="1" parent="1">
+          <mxGeometry x="700" y="1460" width="380" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="adHNTlXBSxEZ484oFDG5-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="adHNTlXBSxEZ484oFDG5-96" target="adHNTlXBSxEZ484oFDG5-102">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="adHNTlXBSxEZ484oFDG5-96" value="Select the internal evaluation method" style="rounded=1;whiteSpace=wrap;html=1;arcSize=13;fillColor=light-dark(#fac090, #ededed);strokeColor=none;fontSize=28;" vertex="1" parent="1">
+          <mxGeometry x="1250" y="1460" width="380" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="adHNTlXBSxEZ484oFDG5-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=3;strokeColor=light-dark(#1271c7, #ededed);" edge="1" parent="1" source="adHNTlXBSxEZ484oFDG5-97" target="adHNTlXBSxEZ484oFDG5-93">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="adHNTlXBSxEZ484oFDG5-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=3;strokeColor=light-dark(#0f6fc6, #ededed);" edge="1" parent="1" source="adHNTlXBSxEZ484oFDG5-97" target="adHNTlXBSxEZ484oFDG5-96">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="adHNTlXBSxEZ484oFDG5-97" value="The customer manager enters the collateral information" style="rounded=1;whiteSpace=wrap;html=1;arcSize=11;fillColor=light-dark(#fac090, #ededed);strokeColor=none;fontSize=28;" vertex="1" parent="1">
+          <mxGeometry x="950" y="1210" width="410" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="adHNTlXBSxEZ484oFDG5-113" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=3;strokeColor=light-dark(#1271c7, #ededed);" edge="1" parent="1" source="adHNTlXBSxEZ484oFDG5-100" target="adHNTlXBSxEZ484oFDG5-109">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="adHNTlXBSxEZ484oFDG5-100" value="Types of Collateral&amp;nbsp;&amp;nbsp;" style="rhombus;whiteSpace=wrap;html=1;fontSize=26;fillColor=light-dark(#4f81bd, #ededed);fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="745" y="1630" width="290" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="adHNTlXBSxEZ484oFDG5-107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=3;strokeColor=light-dark(#1271c7, #ededed);" edge="1" parent="1" source="adHNTlXBSxEZ484oFDG5-102" target="adHNTlXBSxEZ484oFDG5-105">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="adHNTlXBSxEZ484oFDG5-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=3;strokeColor=light-dark(#1271c7, #ededed);" edge="1" parent="1" source="adHNTlXBSxEZ484oFDG5-102" target="adHNTlXBSxEZ484oFDG5-106">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="adHNTlXBSxEZ484oFDG5-102" value="Types of Collateral&amp;nbsp;&amp;nbsp;" style="rhombus;whiteSpace=wrap;html=1;fontSize=26;fillColor=light-dark(#4f81bd, #ededed);fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="1295" y="1640" width="290" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="adHNTlXBSxEZ484oFDG5-117" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=3;strokeColor=light-dark(#1271c7, #ededed);" edge="1" parent="1" source="adHNTlXBSxEZ484oFDG5-105" target="adHNTlXBSxEZ484oFDG5-110">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="adHNTlXBSxEZ484oFDG5-105" value="It is necessary to call the internal calculation model" style="rounded=1;whiteSpace=wrap;html=1;arcSize=13;fillColor=light-dark(#fac090, #ededed);strokeColor=none;fontSize=28;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="1840" width="380" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="adHNTlXBSxEZ484oFDG5-118" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=3;strokeColor=light-dark(#1271c7, #ededed);" edge="1" parent="1" source="adHNTlXBSxEZ484oFDG5-106" target="adHNTlXBSxEZ484oFDG5-110">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="adHNTlXBSxEZ484oFDG5-106" value="There is no need to call the internal calculation model" style="rounded=1;whiteSpace=wrap;html=1;arcSize=13;fillColor=light-dark(#fac090, #ededed);strokeColor=none;fontSize=28;" vertex="1" parent="1">
+          <mxGeometry x="1460" y="1840" width="380" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="adHNTlXBSxEZ484oFDG5-114" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=3;strokeColor=light-dark(#1271c7, #ededed);" edge="1" parent="1" source="adHNTlXBSxEZ484oFDG5-109" target="adHNTlXBSxEZ484oFDG5-111">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="adHNTlXBSxEZ484oFDG5-109" value="The external evaluation value of the collateral" style="rounded=1;whiteSpace=wrap;html=1;arcSize=13;fillColor=light-dark(#a5a5a5, #ededed);strokeColor=none;fontSize=28;" vertex="1" parent="1">
+          <mxGeometry x="700" y="2070" width="380" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="adHNTlXBSxEZ484oFDG5-115" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=3;strokeColor=light-dark(#1271c7, #ededed);" edge="1" parent="1" source="adHNTlXBSxEZ484oFDG5-110" target="adHNTlXBSxEZ484oFDG5-111">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="adHNTlXBSxEZ484oFDG5-110" value="The internal evaluation value of the collateral" style="rounded=1;whiteSpace=wrap;html=1;arcSize=13;fillColor=light-dark(#a5a5a5, #ededed);strokeColor=none;fontSize=28;" vertex="1" parent="1">
+          <mxGeometry x="1250" y="2070" width="380" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="adHNTlXBSxEZ484oFDG5-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=3;strokeColor=light-dark(#1271c7, #ededed);" edge="1" parent="1" source="adHNTlXBSxEZ484oFDG5-111" target="adHNTlXBSxEZ484oFDG5-112">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="adHNTlXBSxEZ484oFDG5-111" value="The value of the collateral after the adjustment of ownership rights" style="rounded=1;whiteSpace=wrap;html=1;arcSize=13;fillColor=light-dark(#a5a5a5, #ededed);strokeColor=none;fontSize=28;" vertex="1" parent="1">
+          <mxGeometry x="989.5" y="2320" width="380" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="adHNTlXBSxEZ484oFDG5-112" value="The value determined by our bank&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=13;fillColor=light-dark(#a5a5a5, #ededed);strokeColor=none;fontSize=28;" vertex="1" parent="1">
+          <mxGeometry x="989.5" y="2490" width="380" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="adHNTlXBSxEZ484oFDG5-119" value="Manually fill in" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=32;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="571" y="2000" width="289" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="adHNTlXBSxEZ484oFDG5-121" value="The system automatically calculates" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=32;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="965" y="1950" width="429" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="adHNTlXBSxEZ484oFDG5-122" value="Manually fill in" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=32;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1630" y="1950" width="289" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="adHNTlXBSxEZ484oFDG5-123" value="The system automatically deducts the amount of preferential compensation" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=32;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1200" y="2240" width="690" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="adHNTlXBSxEZ484oFDG5-124" value="Determined by the valuation determination post" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=32;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1211" y="2410" width="549" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
