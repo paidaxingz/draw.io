@@ -127,8 +127,8 @@
         <mxCell id="adHNTlXBSxEZ484oFDG5-84" value="&lt;b&gt;Microservices Governance Platform&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#0070c0, #ededed);fontColor=light-dark(#FFFFFF,#EDEDED);fontSize=12;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="1320" y="750" width="180" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="adHNTlXBSxEZ484oFDG5-86" value="图例：" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=27;" vertex="1" parent="1">
-          <mxGeometry x="440.5" y="990" width="140" height="50" as="geometry" />
+        <mxCell id="adHNTlXBSxEZ484oFDG5-86" value="Picture Example：" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=23;" vertex="1" parent="1">
+          <mxGeometry x="360" y="963" width="200" height="107.5" as="geometry" />
         </mxCell>
         <mxCell id="adHNTlXBSxEZ484oFDG5-88" value="&lt;b&gt;Self-developed Components (11 pieces)&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#0070c0, #ededed);fontColor=light-dark(#FFFFFF,#EDEDED);fontSize=12;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="550" y="993.75" width="259.5" height="47.5" as="geometry" />
