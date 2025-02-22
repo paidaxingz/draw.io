@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.16">
   <diagram name="第 1 页" id="3ISSW14Xh17d9ykyw0St">
-    <mxGraphModel dx="1764" dy="1018" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="19000" pageHeight="19020" math="0" shadow="0">
+    <mxGraphModel dx="1588" dy="916" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="19000" pageHeight="19020" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -268,10 +268,10 @@
         <mxCell id="adHNTlXBSxEZ484oFDG5-138" value="OpenAPI Platform" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#375f92, #ededed);fontSize=37;fontColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="4930" y="3170" width="450" height="300" as="geometry" />
         </mxCell>
-        <mxCell id="adHNTlXBSxEZ484oFDG5-139" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=130;fillColor=light-dark(#bfbfbf, #ededed);" vertex="1" parent="1">
+        <mxCell id="adHNTlXBSxEZ484oFDG5-139" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=130;fillColor=light-dark(#bfbfbf, #ededed);shadow=1;" vertex="1" parent="1">
           <mxGeometry x="2660" y="2910" width="2890" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="adHNTlXBSxEZ484oFDG5-142" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeWidth=2;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;rotation=-90;fillColor=light-dark(#8faadc, #ededed);strokeColor=none;gradientColor=none;gradientDirection=west;opacity=80;" vertex="1" parent="1">
+        <mxCell id="adHNTlXBSxEZ484oFDG5-142" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeWidth=2;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;rotation=-90;fillColor=light-dark(#8faadc, #ededed);strokeColor=none;gradientColor=none;gradientDirection=west;shadow=0;" vertex="1" parent="1">
           <mxGeometry x="2820" y="2900" width="130" height="70" as="geometry" />
         </mxCell>
       </root>
