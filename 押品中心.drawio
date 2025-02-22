@@ -148,7 +148,7 @@
         <mxCell id="adHNTlXBSxEZ484oFDG5-93" value="Select the external evaluation method&amp;nbsp;&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=13;fillColor=light-dark(#fac090, #ededed);strokeColor=none;fontSize=28;" vertex="1" parent="1">
           <mxGeometry x="700" y="1460" width="380" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="adHNTlXBSxEZ484oFDG5-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="adHNTlXBSxEZ484oFDG5-96" target="adHNTlXBSxEZ484oFDG5-102">
+        <mxCell id="adHNTlXBSxEZ484oFDG5-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=3;strokeColor=light-dark(#1271c7, #ededed);" edge="1" parent="1" source="adHNTlXBSxEZ484oFDG5-96" target="adHNTlXBSxEZ484oFDG5-102">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="adHNTlXBSxEZ484oFDG5-96" value="Select the internal evaluation method" style="rounded=1;whiteSpace=wrap;html=1;arcSize=13;fillColor=light-dark(#fac090, #ededed);strokeColor=none;fontSize=28;" vertex="1" parent="1">
