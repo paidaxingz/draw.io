@@ -1,9 +1,147 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.16">
   <diagram name="第 1 页" id="3ISSW14Xh17d9ykyw0St">
-    <mxGraphModel>
+    <mxGraphModel dx="1588" dy="916" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="19000" pageHeight="19020" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="adHNTlXBSxEZ484oFDG5-1" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#7EA6E0;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="440" y="270" width="1110" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="adHNTlXBSxEZ484oFDG5-3" value="&lt;b&gt;OpenAPI Developer Portal&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#0070c0, #ededed);fontColor=light-dark(#FFFFFF,#EDEDED);fontSize=12;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="690" y="290" width="230" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="adHNTlXBSxEZ484oFDG5-5" value="&lt;b&gt;OpenAPI Operation Portal&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#0070c0, #ededed);fontColor=light-dark(#FFFFFF,#EDEDED);fontSize=12;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="940" y="290" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="adHNTlXBSxEZ484oFDG5-6" value="&lt;b&gt;OpenAPI Gateway&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#bf7600, #ededed);fontColor=#FFFFFF;fontSize=12;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="690" y="340" width="230" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="adHNTlXBSxEZ484oFDG5-7" value="&lt;span style=&quot;color: rgb(255, 255, 255);&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;OpenAPI Platform&lt;/font&gt;&lt;/span&gt;&lt;div style=&quot;color: rgb(255, 255, 255);&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;(Open - Source Enhancement&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(255, 255, 255);&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;&amp;nbsp;&lt;span style=&quot;color: light-dark(rgb(255, 255, 255), rgb(18, 18, 18)); background-color: transparent;&quot;&gt;+ Self - developed)&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#002c80, #ededed);strokeColor=none;fontColor=#FFFFFF;align=center;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="440" y="270" width="240" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="adHNTlXBSxEZ484oFDG5-20" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#7EA6E0;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="440" y="420" width="1110" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="adHNTlXBSxEZ484oFDG5-21" value="&lt;b&gt;Online Transaction Framework&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#0070c0, #ededed);fontColor=light-dark(#FFFFFF,#EDEDED);fontSize=12;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="690" y="440" width="230" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="adHNTlXBSxEZ484oFDG5-22" value="&lt;b&gt;Batch Scheduling Framework&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#0070c0, #ededed);fontColor=light-dark(#FFFFFF,#EDEDED);fontSize=12;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="940" y="440" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="adHNTlXBSxEZ484oFDG5-23" value="&lt;b&gt;Application Platform Foundation&amp;nbsp;&lt;/b&gt;&lt;div&gt;&lt;b&gt;(Adapted to Microservices Framework)&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#00b050, #ededed);fontColor=#FFFFFF;fontSize=12;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="690" y="490" width="230" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="adHNTlXBSxEZ484oFDG5-24" value="Application Development Platform&lt;br&gt;&lt;div style=&quot;color: rgb(255, 255, 255);&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;(Open - Source Enhancement&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(255, 255, 255);&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;&amp;nbsp;&lt;span style=&quot;color: light-dark(rgb(255, 255, 255), rgb(18, 18, 18)); background-color: transparent;&quot;&gt;+ Self - developed)&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#002c80, #ededed);strokeColor=none;fontColor=#FFFFFF;align=center;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="440" y="420" width="240" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="adHNTlXBSxEZ484oFDG5-45" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#7EA6E0;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="440" y="570" width="1110" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="adHNTlXBSxEZ484oFDG5-46" value="&lt;b&gt;Distributed Location Service&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#0070c0, #ededed);fontColor=light-dark(#FFFFFF,#EDEDED);fontSize=12;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="690.5" y="595" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="adHNTlXBSxEZ484oFDG5-47" value="&lt;b&gt;Distributed Transaction Service&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#0070c0, #ededed);fontColor=light-dark(#FFFFFF,#EDEDED);fontSize=12;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="939.5" y="595" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="adHNTlXBSxEZ484oFDG5-49" value="Distributed Component&lt;br&gt;&lt;div style=&quot;color: rgb(255, 255, 255);&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;(&lt;/font&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(255, 255, 255), rgb(18, 18, 18));&quot;&gt;Self - developed)&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#002c80, #ededed);strokeColor=none;fontColor=#FFFFFF;align=center;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="440" y="570" width="240" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="adHNTlXBSxEZ484oFDG5-50" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#7EA6E0;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="440.5" y="680" width="1109.5" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="adHNTlXBSxEZ484oFDG5-51" value="&lt;b&gt;API Gateway&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#BF7600;fontColor=light-dark(#FFFFFF,#EDEDED);fontSize=12;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="690" y="700" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="adHNTlXBSxEZ484oFDG5-52" value="&lt;b&gt;Service Invocation Framework&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#00b050, #bb7c17);fontColor=light-dark(#FFFFFF,#EDEDED);fontSize=12;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="900" y="700" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="adHNTlXBSxEZ484oFDG5-53" value="&lt;b&gt;Service Registration Center&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#00b050, #ededed);fontColor=#FFFFFF;fontSize=12;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="690.5" y="750" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="adHNTlXBSxEZ484oFDG5-54" value="Microservices Framework&amp;nbsp; &amp;nbsp;&lt;div&gt;&lt;font style=&quot;color: light-dark(rgb(255, 255, 255), rgb(18, 18, 18)); background-color: transparent;&quot; face=&quot;Helvetica&quot;&gt;(&lt;/font&gt;&lt;span style=&quot;color: light-dark(rgb(255, 255, 255), rgb(18, 18, 18)); background-color: transparent;&quot;&gt;Mainly open - source enhancement&lt;/span&gt;&lt;span style=&quot;color: light-dark(rgb(255, 255, 255), rgb(18, 18, 18)); background-color: transparent;&quot;&gt;)&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#002c80, #ededed);strokeColor=none;fontColor=#FFFFFF;align=center;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="440.5" y="680" width="240" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="adHNTlXBSxEZ484oFDG5-60" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#7EA6E0;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="440.5" y="833" width="1109.5" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="adHNTlXBSxEZ484oFDG5-61" value="&lt;b&gt;Knowledge Base&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#3d3d3d, #ededed);fontColor=light-dark(#FFFFFF,#EDEDED);fontSize=12;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="690.5" y="853" width="129.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="adHNTlXBSxEZ484oFDG5-64" value="DevOps Platform&lt;div&gt;&lt;font style=&quot;color: light-dark(rgb(255, 255, 255), rgb(18, 18, 18)); background-color: transparent;&quot; face=&quot;Helvetica&quot;&gt;(&lt;/font&gt;&lt;span style=&quot;color: light-dark(rgb(255, 255, 255), rgb(18, 18, 18)); background-color: transparent;&quot;&gt;Mainly open - source enhancement&lt;/span&gt;&lt;span style=&quot;color: light-dark(rgb(255, 255, 255), rgb(18, 18, 18)); background-color: transparent;&quot;&gt;)&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#002c80, #ededed);strokeColor=none;fontColor=#FFFFFF;align=center;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="440.5" y="833" width="240" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="adHNTlXBSxEZ484oFDG5-65" value="&lt;b&gt;Batch Processing Framework&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#bf7600, #ededed);fontColor=light-dark(#FFFFFF,#EDEDED);fontSize=12;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1140" y="440" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="adHNTlXBSxEZ484oFDG5-66" value="&lt;b&gt;Integrated Development Environment (IDE)&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#bf7600, #ededed);fontColor=light-dark(#FFFFFF,#EDEDED);fontSize=12;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1350" y="440" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="adHNTlXBSxEZ484oFDG5-67" value="&lt;b&gt;Service Orchestration Framework&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#0070c0, #ededed);fontColor=light-dark(#FFFFFF,#EDEDED);fontSize=12;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="940" y="490" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="adHNTlXBSxEZ484oFDG5-68" value="&lt;b&gt;Micro Frontend Framework&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#0070c0, #ededed);fontColor=light-dark(#FFFFFF,#EDEDED);fontSize=12;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1140" y="490" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="adHNTlXBSxEZ484oFDG5-69" value="&lt;b&gt;Page Template Engine&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#0070c0, #ededed);fontColor=light-dark(#FFFFFF,#EDEDED);fontSize=12;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1350" y="490" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="adHNTlXBSxEZ484oFDG5-70" value="&lt;b&gt;Agile Management&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#3d3d3d, #ededed);fontColor=light-dark(#FFFFFF,#EDEDED);fontSize=12;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="860" y="853" width="129.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="adHNTlXBSxEZ484oFDG5-71" value="&lt;b&gt;Container Cloud&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#3d3d3d, #ededed);fontColor=light-dark(#FFFFFF,#EDEDED);fontSize=12;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="690.5" y="910" width="129.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="adHNTlXBSxEZ484oFDG5-72" value="&lt;b&gt;Unit Testing&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#00b050, #ededed);fontColor=light-dark(#FFFFFF,#EDEDED);fontSize=12;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="860" y="910" width="129.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="adHNTlXBSxEZ484oFDG5-73" value="&lt;b&gt;Code Collaboration&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#00b050, #ededed);fontColor=light-dark(#FFFFFF,#EDEDED);fontSize=12;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1030" y="853" width="129.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="adHNTlXBSxEZ484oFDG5-74" value="&lt;b&gt;Continuous Integration Platform&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#BF7600;fontColor=light-dark(#FFFFFF,#EDEDED);fontSize=12;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="853" width="129.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="adHNTlXBSxEZ484oFDG5-75" value="&lt;b&gt;Automated Interface Testing&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#0070c0, #ededed);fontColor=light-dark(#FFFFFF,#EDEDED);fontSize=12;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1030" y="910" width="129.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="adHNTlXBSxEZ484oFDG5-76" value="&lt;b&gt;Code Quality&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#00b050, #ededed);fontColor=light-dark(#FFFFFF,#EDEDED);fontSize=12;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="910" width="129.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="adHNTlXBSxEZ484oFDG5-77" value="&lt;b&gt;Continuous Deployment Platform&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#BF7600;fontColor=light-dark(#FFFFFF,#EDEDED);fontSize=12;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1370.5" y="853" width="129.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="adHNTlXBSxEZ484oFDG5-78" value="&lt;b&gt;Artifact Package Management&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#00b050, #ededed);fontColor=light-dark(#FFFFFF,#EDEDED);fontSize=12;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1370.5" y="910" width="129.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="adHNTlXBSxEZ484oFDG5-79" value="&lt;b&gt;Link Tracing&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#00b050, #bb7c17);fontColor=light-dark(#FFFFFF,#EDEDED);fontSize=12;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1110" y="700" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="adHNTlXBSxEZ484oFDG5-80" value="&lt;b&gt;Log Analysis&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#00b050, #bb7c17);fontColor=light-dark(#FFFFFF,#EDEDED);fontSize=12;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1320" y="700" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="adHNTlXBSxEZ484oFDG5-82" value="&lt;b&gt;Configuration Center&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#00b050, #bb7c17);fontColor=light-dark(#FFFFFF,#EDEDED);fontSize=12;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="900" y="750" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="adHNTlXBSxEZ484oFDG5-83" value="&lt;b&gt;APM&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#BF7600;fontColor=light-dark(#FFFFFF,#EDEDED);fontSize=12;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1110" y="750" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="adHNTlXBSxEZ484oFDG5-84" value="&lt;b&gt;Microservices Governance Platform&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#0070c0, #ededed);fontColor=light-dark(#FFFFFF,#EDEDED);fontSize=12;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1320" y="750" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="adHNTlXBSxEZ484oFDG5-86" value="图例：" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=27;" vertex="1" parent="1">
+          <mxGeometry x="440.5" y="990" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="adHNTlXBSxEZ484oFDG5-88" value="&lt;b&gt;Self-developed Components (11 pieces)&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#0070c0, #ededed);fontColor=light-dark(#FFFFFF,#EDEDED);fontSize=12;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="550" y="993.75" width="259.5" height="47.5" as="geometry" />
+        </mxCell>
+        <mxCell id="adHNTlXBSxEZ484oFDG5-89" value="&lt;b&gt;Open-source Components (10 pieces)&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#00b050, #ededed);fontColor=light-dark(#FFFFFF,#EDEDED);fontSize=12;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="830" y="992.5" width="240" height="52.5" as="geometry" />
+        </mxCell>
+        <mxCell id="adHNTlXBSxEZ484oFDG5-90" value="&lt;b&gt;Open-source Enhancement (7 pieces)&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#BF7600;fontColor=light-dark(#FFFFFF,#EDEDED);fontSize=12;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1090" y="995" width="220" height="47.5" as="geometry" />
+        </mxCell>
+        <mxCell id="adHNTlXBSxEZ484oFDG5-91" value="&lt;b&gt;Third-party Components (3 pieces)&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#3d3d3d, #ededed);fontColor=light-dark(#FFFFFF,#EDEDED);fontSize=12;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1320" y="992.5" width="230" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
