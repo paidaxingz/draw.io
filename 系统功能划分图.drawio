@@ -494,7 +494,7 @@
           <mxGeometry x="1340" y="2410" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="uHhO4iMqZapcWqjvIy67-5" value="贷款产品A表" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="150" y="1060" width="180" height="248" as="geometry" />
+          <mxGeometry x="150" y="1060" width="180" height="280" as="geometry" />
         </mxCell>
         <mxCell id="uHhO4iMqZapcWqjvIy67-6" value="+ 贷款期限" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="uHhO4iMqZapcWqjvIy67-5">
           <mxGeometry y="26" width="180" height="26" as="geometry" />
@@ -517,8 +517,11 @@
         <mxCell id="uHhO4iMqZapcWqjvIy67-14" value="+ 审批流程id" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="uHhO4iMqZapcWqjvIy67-5">
           <mxGeometry y="194" width="180" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="uHhO4iMqZapcWqjvIy67-15" value="+ 审批流程名称" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="uHhO4iMqZapcWqjvIy67-5">
-          <mxGeometry y="220" width="180" height="28" as="geometry" />
+        <mxCell id="uHhO4iMqZapcWqjvIy67-16" value="+ 审批流程id" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="uHhO4iMqZapcWqjvIy67-5">
+          <mxGeometry y="220" width="180" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="uHhO4iMqZapcWqjvIy67-15" value="+&amp;nbsp; ......." style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="uHhO4iMqZapcWqjvIy67-5">
+          <mxGeometry y="246" width="180" height="34" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
