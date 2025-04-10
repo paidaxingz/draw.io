@@ -520,7 +520,7 @@
         <mxCell id="uHhO4iMqZapcWqjvIy67-16" value="+ 审批流程id" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="uHhO4iMqZapcWqjvIy67-5">
           <mxGeometry y="220" width="180" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="uHhO4iMqZapcWqjvIy67-15" value="+&amp;nbsp; ......." style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="uHhO4iMqZapcWqjvIy67-5">
+        <mxCell id="uHhO4iMqZapcWqjvIy67-15" value="+&amp;nbsp; ......." style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="uHhO4iMqZapcWqjvIy67-5">
           <mxGeometry y="246" width="180" height="34" as="geometry" />
         </mxCell>
       </root>
