@@ -524,34 +524,34 @@
           <mxGeometry y="246" width="180" height="34" as="geometry" />
         </mxCell>
         <mxCell id="uHhO4iMqZapcWqjvIy67-17" value="Loan Product A Table" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fontSize=15;" parent="1" vertex="1">
-          <mxGeometry x="360" y="1060" width="180" height="280" as="geometry" />
+          <mxGeometry x="360" y="1060" width="270" height="280" as="geometry" />
         </mxCell>
-        <mxCell id="uHhO4iMqZapcWqjvIy67-18" value="+ 贷款期限" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontSize=15;" parent="uHhO4iMqZapcWqjvIy67-17" vertex="1">
-          <mxGeometry y="26" width="180" height="26" as="geometry" />
+        <mxCell id="uHhO4iMqZapcWqjvIy67-18" value="+ Loan term" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontSize=15;" parent="uHhO4iMqZapcWqjvIy67-17" vertex="1">
+          <mxGeometry y="26" width="270" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="uHhO4iMqZapcWqjvIy67-19" value="+ 最大放款金额" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontSize=15;" parent="uHhO4iMqZapcWqjvIy67-17" vertex="1">
-          <mxGeometry y="52" width="180" height="28" as="geometry" />
+        <mxCell id="uHhO4iMqZapcWqjvIy67-19" value="+ Maximum disbursement amount" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontSize=15;" parent="uHhO4iMqZapcWqjvIy67-17" vertex="1">
+          <mxGeometry y="52" width="270" height="28" as="geometry" />
         </mxCell>
-        <mxCell id="uHhO4iMqZapcWqjvIy67-20" value="+ 最小放款金额" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontSize=15;" parent="uHhO4iMqZapcWqjvIy67-17" vertex="1">
-          <mxGeometry y="80" width="180" height="30" as="geometry" />
+        <mxCell id="uHhO4iMqZapcWqjvIy67-20" value="+ Minimum disbursement amount" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontSize=15;" parent="uHhO4iMqZapcWqjvIy67-17" vertex="1">
+          <mxGeometry y="80" width="270" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="uHhO4iMqZapcWqjvIy67-21" value="+ 贷款利率" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontSize=15;" parent="uHhO4iMqZapcWqjvIy67-17" vertex="1">
-          <mxGeometry y="110" width="180" height="28" as="geometry" />
+        <mxCell id="uHhO4iMqZapcWqjvIy67-21" value="+ Loan interest rate" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontSize=15;" parent="uHhO4iMqZapcWqjvIy67-17" vertex="1">
+          <mxGeometry y="110" width="270" height="28" as="geometry" />
         </mxCell>
-        <mxCell id="uHhO4iMqZapcWqjvIy67-22" value="+ 是否允许展期" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontSize=15;" parent="uHhO4iMqZapcWqjvIy67-17" vertex="1">
-          <mxGeometry y="138" width="180" height="28" as="geometry" />
+        <mxCell id="uHhO4iMqZapcWqjvIy67-22" value="+ Whether loan extension is allowed" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontSize=15;" parent="uHhO4iMqZapcWqjvIy67-17" vertex="1">
+          <mxGeometry y="138" width="270" height="28" as="geometry" />
         </mxCell>
-        <mxCell id="uHhO4iMqZapcWqjvIy67-23" value="+ 允许展期次数" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontSize=15;" parent="uHhO4iMqZapcWqjvIy67-17" vertex="1">
-          <mxGeometry y="166" width="180" height="28" as="geometry" />
+        <mxCell id="uHhO4iMqZapcWqjvIy67-23" value="+ Number of allowed loan extensions" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontSize=15;" parent="uHhO4iMqZapcWqjvIy67-17" vertex="1">
+          <mxGeometry y="166" width="270" height="28" as="geometry" />
         </mxCell>
-        <mxCell id="uHhO4iMqZapcWqjvIy67-24" value="+ 审批流程id" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontSize=15;" parent="uHhO4iMqZapcWqjvIy67-17" vertex="1">
-          <mxGeometry y="194" width="180" height="26" as="geometry" />
+        <mxCell id="uHhO4iMqZapcWqjvIy67-24" value="+ Approval process ID" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontSize=15;" parent="uHhO4iMqZapcWqjvIy67-17" vertex="1">
+          <mxGeometry y="194" width="270" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="uHhO4iMqZapcWqjvIy67-25" value="+ 审批流程id" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontSize=15;" parent="uHhO4iMqZapcWqjvIy67-17" vertex="1">
-          <mxGeometry y="220" width="180" height="26" as="geometry" />
+        <mxCell id="uHhO4iMqZapcWqjvIy67-25" value="+ Approval process Name" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontSize=15;" parent="uHhO4iMqZapcWqjvIy67-17" vertex="1">
+          <mxGeometry y="220" width="270" height="26" as="geometry" />
         </mxCell>
         <mxCell id="uHhO4iMqZapcWqjvIy67-26" value="+&amp;nbsp; ......." style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontSize=16;" parent="uHhO4iMqZapcWqjvIy67-17" vertex="1">
-          <mxGeometry y="246" width="180" height="34" as="geometry" />
+          <mxGeometry y="246" width="270" height="34" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
