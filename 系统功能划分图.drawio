@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.14">
   <diagram name="第 1 页" id="MvojczaCaQGZTlGFvLy0">
-    <mxGraphModel dx="1747" dy="1029" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="12000" pageHeight="12020" math="0" shadow="0">
+    <mxGraphModel dx="715" dy="421" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="12000" pageHeight="12020" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -642,6 +642,15 @@
         </mxCell>
         <mxCell id="0Qed1efLy2j0SQ2TBgik-42" value="&lt;span style=&quot;font-size: 27px;&quot;&gt;&amp;nbsp;Case_id&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; overdue_day&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;overdue_amout&amp;nbsp; &amp;nbsp;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="2200" y="9010" width="710" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0Qed1efLy2j0SQ2TBgik-47" value="debtor" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.cell_phone_iphone_proportional;" vertex="1" parent="1">
+          <mxGeometry x="2280" y="11200" width="70" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="0Qed1efLy2j0SQ2TBgik-48" value="Collection Robort" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#515151;shape=mxgraph.mscae.system_center.admin_console" vertex="1" parent="1">
+          <mxGeometry x="1840" y="11208.5" width="110" height="93" as="geometry" />
+        </mxCell>
+        <mxCell id="0Qed1efLy2j0SQ2TBgik-50" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;fillColor=#FF6A00;strokeColor=none;shape=mxgraph.alibaba_cloud.sms_short_message_service;" vertex="1" parent="1">
+          <mxGeometry x="2038" y="11350" width="43.68" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
