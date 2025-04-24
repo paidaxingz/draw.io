@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.14">
   <diagram name="第 1 页" id="MvojczaCaQGZTlGFvLy0">
-    <mxGraphModel dx="715" dy="421" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="12000" pageHeight="12020" math="0" shadow="0">
+    <mxGraphModel dx="1123" dy="661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="12000" pageHeight="12020" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -686,17 +686,17 @@
           <mxGeometry x="2692.5" y="10823.5" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="0Qed1efLy2j0SQ2TBgik-60" value="AI Model" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fontColor=#232F3E;fillColor=#01A88D;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.augmented_ai;" parent="1" vertex="1">
-          <mxGeometry x="2112.5" y="10828.5" width="70" height="70" as="geometry" />
+          <mxGeometry x="2157.5" y="10813.5" width="70" height="70" as="geometry" />
         </mxCell>
         <mxCell id="0Qed1efLy2j0SQ2TBgik-61" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="2602.5" y="10848.5" as="sourcePoint" />
-            <mxPoint x="2202.5" y="10878.5" as="targetPoint" />
+            <mxPoint x="2250" y="10849" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="0Qed1efLy2j0SQ2TBgik-62" value="Read the message from Debtor" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="0Qed1efLy2j0SQ2TBgik-61" vertex="1" connectable="0">
           <mxGeometry x="0.3063" y="1" relative="1" as="geometry">
-            <mxPoint x="71" y="-3" as="offset" />
+            <mxPoint x="48" y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="0Qed1efLy2j0SQ2TBgik-73" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="0Qed1efLy2j0SQ2TBgik-63" edge="1">
@@ -707,9 +707,9 @@
         <mxCell id="0Qed1efLy2j0SQ2TBgik-63" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2212.5" y="11038.5" width="277" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="0Qed1efLy2j0SQ2TBgik-64" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.45;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="0Qed1efLy2j0SQ2TBgik-63" edge="1">
+        <mxCell id="0Qed1efLy2j0SQ2TBgik-64" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.185;entryY=-0.024;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="0Qed1efLy2j0SQ2TBgik-63" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="2142.5" y="10928.5" as="sourcePoint" />
+            <mxPoint x="2200" y="10920" as="sourcePoint" />
             <mxPoint x="2192.5" y="10878.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
