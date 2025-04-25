@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.14">
   <diagram name="第 1 页" id="MvojczaCaQGZTlGFvLy0">
-    <mxGraphModel dx="1048" dy="617" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="12000" pageHeight="12020" math="0" shadow="0">
+    <mxGraphModel dx="925" dy="545" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="12000" pageHeight="12020" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -755,27 +755,44 @@
           <mxGeometry x="3710" y="10490" width="230" height="800" as="geometry" />
         </mxCell>
         <mxCell id="xgRAQoKvJwkKtNcvx2TT-5" value="start" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start;fontSize=18;" vertex="1" parent="xgRAQoKvJwkKtNcvx2TT-1">
-          <mxGeometry x="70" y="50" width="100" height="50" as="geometry" />
+          <mxGeometry x="60" y="40" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="xgRAQoKvJwkKtNcvx2TT-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="xgRAQoKvJwkKtNcvx2TT-1" source="xgRAQoKvJwkKtNcvx2TT-11">
+        <mxCell id="xgRAQoKvJwkKtNcvx2TT-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=18;" edge="1" parent="xgRAQoKvJwkKtNcvx2TT-1" source="xgRAQoKvJwkKtNcvx2TT-11">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="510" y="205" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="xgRAQoKvJwkKtNcvx2TT-20" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;No&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="xgRAQoKvJwkKtNcvx2TT-13">
+          <mxGeometry x="-0.7401" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="xgRAQoKvJwkKtNcvx2TT-11" value="whether answer in 1 day" style="shape=rhombus;html=1;dashed=0;whiteSpace=wrap;perimeter=rhombusPerimeter;fontSize=15;" vertex="1" parent="xgRAQoKvJwkKtNcvx2TT-1">
-          <mxGeometry x="40" y="170" width="120" height="70" as="geometry" />
+          <mxGeometry x="50" y="170" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="xgRAQoKvJwkKtNcvx2TT-18" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;3.Set strategies based on customer responses and notify again by voice one day later&lt;/font&gt;" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="xgRAQoKvJwkKtNcvx2TT-1">
+          <mxGeometry x="30" y="290" width="160" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="xgRAQoKvJwkKtNcvx2TT-25" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;4.Set strategies based on customer responses and send SMS one day later&lt;/font&gt;" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="xgRAQoKvJwkKtNcvx2TT-1">
+          <mxGeometry x="30" y="480" width="160" height="120" as="geometry" />
         </mxCell>
         <mxCell id="xgRAQoKvJwkKtNcvx2TT-2" value="SMS" style="swimlane;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="3940" y="10490" width="230" height="800" as="geometry" />
+          <mxGeometry x="3940" y="10480" width="230" height="800" as="geometry" />
         </mxCell>
         <mxCell id="xgRAQoKvJwkKtNcvx2TT-6" value="1.send Collection SMS to the Debtor" style="html=1;dashed=0;whiteSpace=wrap;fontSize=16;align=left;" vertex="1" parent="xgRAQoKvJwkKtNcvx2TT-2">
           <mxGeometry x="47.5" y="50" width="152.5" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="xgRAQoKvJwkKtNcvx2TT-26" value="Send a pressurizing SMS to illustrate the serious consequences" style="html=1;dashed=0;whiteSpace=wrap;fontSize=16;align=left;" vertex="1" parent="xgRAQoKvJwkKtNcvx2TT-2">
+          <mxGeometry x="38.75" y="500" width="171.25" height="100" as="geometry" />
+        </mxCell>
         <mxCell id="xgRAQoKvJwkKtNcvx2TT-3" value="Voice Robot" style="swimlane;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="4170" y="10490" width="230" height="800" as="geometry" />
         </mxCell>
-        <mxCell id="xgRAQoKvJwkKtNcvx2TT-14" value="2.make voice Message call to the debtor" style="html=1;dashed=0;whiteSpace=wrap;fontSize=15;align=left;" vertex="1" parent="xgRAQoKvJwkKtNcvx2TT-3">
-          <mxGeometry x="50" y="180" width="152.5" height="50" as="geometry" />
+        <mxCell id="xgRAQoKvJwkKtNcvx2TT-14" value="2.Voice robot making calls" style="html=1;dashed=0;whiteSpace=wrap;fontSize=16;align=left;" vertex="1" parent="xgRAQoKvJwkKtNcvx2TT-3">
+          <mxGeometry x="50" y="170" width="152.5" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="xgRAQoKvJwkKtNcvx2TT-21" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;3.Voice robot making calls again&lt;/span&gt;" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="xgRAQoKvJwkKtNcvx2TT-3">
+          <mxGeometry x="46.25" y="320" width="160" height="70" as="geometry" />
         </mxCell>
         <mxCell id="xgRAQoKvJwkKtNcvx2TT-4" value="Debtor" style="swimlane;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="4400" y="10490" width="230" height="800" as="geometry" />
@@ -783,8 +800,11 @@
         <mxCell id="xgRAQoKvJwkKtNcvx2TT-9" value="receive messages" style="html=1;dashed=0;whiteSpace=wrap;fontSize=16;" vertex="1" parent="xgRAQoKvJwkKtNcvx2TT-4">
           <mxGeometry x="50" y="50" width="152.5" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="xgRAQoKvJwkKtNcvx2TT-15" value="answered,hang up in 5 seconds" style="html=1;dashed=0;whiteSpace=wrap;fontSize=15;align=left;" vertex="1" parent="xgRAQoKvJwkKtNcvx2TT-4">
+        <mxCell id="xgRAQoKvJwkKtNcvx2TT-15" value="answered,hang up in 5 seconds" style="html=1;dashed=0;whiteSpace=wrap;fontSize=16;align=left;" vertex="1" parent="xgRAQoKvJwkKtNcvx2TT-4">
           <mxGeometry x="60" y="180" width="152.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xgRAQoKvJwkKtNcvx2TT-23" value="&lt;span style=&quot;font-size: 17px;&quot;&gt;Answered, feedback no money&lt;/span&gt;" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="xgRAQoKvJwkKtNcvx2TT-4">
+          <mxGeometry x="56.25" y="320" width="160" height="70" as="geometry" />
         </mxCell>
         <mxCell id="xgRAQoKvJwkKtNcvx2TT-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xgRAQoKvJwkKtNcvx2TT-5" target="xgRAQoKvJwkKtNcvx2TT-6">
           <mxGeometry relative="1" as="geometry" />
@@ -798,6 +818,23 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="xgRAQoKvJwkKtNcvx2TT-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xgRAQoKvJwkKtNcvx2TT-14" target="xgRAQoKvJwkKtNcvx2TT-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xgRAQoKvJwkKtNcvx2TT-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="xgRAQoKvJwkKtNcvx2TT-15" target="xgRAQoKvJwkKtNcvx2TT-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xgRAQoKvJwkKtNcvx2TT-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.005;entryY=0.435;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="xgRAQoKvJwkKtNcvx2TT-18" target="xgRAQoKvJwkKtNcvx2TT-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="4210" y="10840" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xgRAQoKvJwkKtNcvx2TT-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xgRAQoKvJwkKtNcvx2TT-21" target="xgRAQoKvJwkKtNcvx2TT-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xgRAQoKvJwkKtNcvx2TT-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xgRAQoKvJwkKtNcvx2TT-25" target="xgRAQoKvJwkKtNcvx2TT-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xgRAQoKvJwkKtNcvx2TT-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="xgRAQoKvJwkKtNcvx2TT-23" target="xgRAQoKvJwkKtNcvx2TT-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
