@@ -751,16 +751,22 @@
         <mxCell id="SaWj2xAvwKDeXYZVq6KE-3" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;Multi-round Communication Strategy&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="2170" y="10597" width="220" height="112" as="geometry" />
         </mxCell>
-        <mxCell id="xgRAQoKvJwkKtNcvx2TT-1" value="Collection System" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="xgRAQoKvJwkKtNcvx2TT-1" value="Collection System" style="swimlane;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="3710" y="10490" width="230" height="800" as="geometry" />
         </mxCell>
-        <mxCell id="xgRAQoKvJwkKtNcvx2TT-2" value="SMS" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="xgRAQoKvJwkKtNcvx2TT-5" value="start" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.start;fontSize=18;" vertex="1" parent="xgRAQoKvJwkKtNcvx2TT-1">
+          <mxGeometry x="70" y="50" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xgRAQoKvJwkKtNcvx2TT-2" value="SMS" style="swimlane;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="3940" y="10490" width="230" height="800" as="geometry" />
         </mxCell>
-        <mxCell id="xgRAQoKvJwkKtNcvx2TT-3" value="Voice Robot" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="xgRAQoKvJwkKtNcvx2TT-6" value="" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="xgRAQoKvJwkKtNcvx2TT-2">
+          <mxGeometry x="47.5" y="50" width="152.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="xgRAQoKvJwkKtNcvx2TT-3" value="Voice Robot" style="swimlane;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="4170" y="10490" width="230" height="800" as="geometry" />
         </mxCell>
-        <mxCell id="xgRAQoKvJwkKtNcvx2TT-4" value="Debtor" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="xgRAQoKvJwkKtNcvx2TT-4" value="Debtor" style="swimlane;whiteSpace=wrap;html=1;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="4400" y="10490" width="230" height="800" as="geometry" />
         </mxCell>
       </root>
