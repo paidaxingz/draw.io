@@ -911,6 +911,12 @@
         <mxCell id="VJFr3Dz55BrT9vAM7iQp-1" value="Vocie call" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="1895" y="11228.5" width="280" height="121.5" as="geometry" />
         </mxCell>
+        <mxCell id="VJFr3Dz55BrT9vAM7iQp-2" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.492;exitY=0.72;exitDx=0;exitDy=0;entryX=0.59;entryY=0.019;entryDx=0;entryDy=0;fontSize=16;exitPerimeter=0;entryPerimeter=0;" edge="1" parent="1" source="0Qed1efLy2j0SQ2TBgik-66" target="VJFr3Dz55BrT9vAM7iQp-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2420" y="11100" as="sourcePoint" />
+            <mxPoint x="2363" y="11239" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
