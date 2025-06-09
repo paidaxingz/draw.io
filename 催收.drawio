@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36" version="27.1.4">
   <diagram name="第 1 页" id="4dpDyEQBopwYuxE-ak8q">
-    <mxGraphModel dx="1310" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="10000" pageHeight="20000" math="0" shadow="0">
+    <mxGraphModel dx="873" dy="514" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="10000" pageHeight="20000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -50,7 +50,7 @@
           <mxGeometry x="1910" y="210" width="210" height="80" as="geometry" />
         </mxCell>
         <mxCell id="PMpR4QO55q-T504xtksO-19" value="&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;// 1. 处理关联不上借据的客户信息&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; SqlCbDataExceptionBatchDao.insCustindExp(org_id, batch_date); // 插入异常客户到临时表&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; SqlCbDataExceptionBatchDao.delCustind(); // 删除无效的客户关联&lt;/div&gt;&lt;div&gt;&amp;nbsp;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; // 2. 处理关联不上客户的借据信息&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; SqlCbDataExceptionBatchDao.insBussdueExp(org_id, batch_date); // 插入异常借据到临时表&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; SqlCbDataExceptionBatchDao.delBussdue(); // 删除无效的借据关联&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1760" y="320" width="600" height="200" as="geometry" />
+          <mxGeometry x="1760" y="320" width="610" height="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
