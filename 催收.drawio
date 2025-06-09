@@ -22,8 +22,8 @@
         <mxCell id="PMpR4QO55q-T504xtksO-7" value="上游系统逾期数据" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="70" y="100" width="150" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="PMpR4QO55q-T504xtksO-9" value="cb2102：cbt_file_task_control表中downloan_path字段为NFS存储上游系统供数文件地址，save_path字段为cb的NFS存储地址。&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="220" y="360" width="260" height="110" as="geometry" />
+        <mxCell id="PMpR4QO55q-T504xtksO-9" value="cb2102：cbt_file_task_control表中downloan_path字段为NFS存储上游系统供数文件地址，save_path字段为cb的NFS存储地址。&lt;div&gt;downFlag 为true下载成功，false下载失败&lt;br&gt;&lt;div&gt;&lt;div style=&quot;background-color: rgb(30, 31, 34); color: rgb(188, 190, 196);&quot;&gt;&lt;pre style=&quot;font-family:&#39;JetBrains Mono&#39;,monospace;font-size:9.8pt;&quot;&gt;&lt;span style=&quot;color: rgb(207, 142, 109);&quot;&gt;boolean  &lt;/span&gt;downFlag = CbFileUtil.&lt;span style=&quot;font-style:italic;&quot;&gt;copyFile&lt;/span&gt;&lt;span style=&quot;color: rgb(53, 159, 244);&quot;&gt;(&lt;/span&gt;downPath, savePath&lt;span style=&quot;color: rgb(53, 159, 244);&quot;&gt;)&lt;/span&gt;;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="100" y="420" width="490" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
