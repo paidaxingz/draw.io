@@ -61,7 +61,7 @@
         <mxCell id="PMpR4QO55q-T504xtksO-23" value="案件合并旨在解决同一客户针对于不同贷款产品、信用卡存在多条借据，案件生成，哪几个贷款产品的借据分到一组作为一个案件。" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="2417.5" y="65" width="315" height="85" as="geometry" />
         </mxCell>
-        <mxCell id="PMpR4QO55q-T504xtksO-25" value="cb2414" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="PMpR4QO55q-T504xtksO-25" value="cb2414&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;遍历借据&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; 1.根据case_no查询该客户在某个分组下的所有借据&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; 2.&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="2390" y="330" width="530" height="140" as="geometry" />
         </mxCell>
       </root>
