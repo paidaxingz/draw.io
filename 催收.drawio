@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36" version="27.1.4">
   <diagram name="第 1 页" id="4dpDyEQBopwYuxE-ak8q">
-    <mxGraphModel dx="873" dy="514" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="10000" pageHeight="20000" math="0" shadow="0">
+    <mxGraphModel dx="827" dy="487" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="10000" pageHeight="20000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -46,11 +46,20 @@
         <mxCell id="PMpR4QO55q-T504xtksO-17" value="cbt_loan_prop_temp&amp;nbsp; &amp;nbsp;-&amp;gt;&amp;nbsp; &amp;nbsp; cbt_loan_attribute&amp;nbsp; &amp;nbsp;cb2201&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;cbt_cust_info_temp、indv_info_temp&amp;nbsp; &amp;nbsp;-&amp;gt;&amp;nbsp; &amp;nbsp; cbt_cust_info&amp;nbsp; &amp;nbsp;cb2202&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;cbt_linkman_temp &amp;nbsp;-&amp;gt;&amp;nbsp; &amp;nbsp; cbt_relation_contact&amp;nbsp; &amp;nbsp;cb2204&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;cbt_loan_info_temp&amp;nbsp; &amp;nbsp;-&amp;gt;&amp;nbsp; &amp;nbsp; cbt_loan_info&amp;nbsp; &amp;nbsp;cb2206&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;cbt_acctxn_detailed_temp&amp;nbsp; &amp;nbsp;-&amp;gt;&amp;nbsp; &amp;nbsp; cbt_repayment_detail&amp;nbsp; &amp;nbsp;cb2213&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;cbt_schedule_repay_temp&amp;nbsp; &amp;nbsp;-&amp;gt;&amp;nbsp; &amp;nbsp; cbt_repayment_schedule&amp;nbsp; &amp;nbsp;cb2214&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(255, 51, 51);&quot;&gt;ps&amp;nbsp;&lt;span style=&quot;background-color: transparent;&quot;&gt;cbt_loan_info_temp&amp;nbsp; &amp;nbsp;-&amp;gt;&amp;nbsp; &amp;nbsp; cbt_loan_info&amp;nbsp; &amp;nbsp;cb2206 写入loan_info的时候，每个借据都有一个case_no，由cust_id和group_id组成&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="1270" y="320" width="440" height="250" as="geometry" />
         </mxCell>
+        <mxCell id="PMpR4QO55q-T504xtksO-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="PMpR4QO55q-T504xtksO-18" target="PMpR4QO55q-T504xtksO-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="PMpR4QO55q-T504xtksO-18" value="进件数据检查" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=19;" vertex="1" parent="1">
           <mxGeometry x="1910" y="210" width="210" height="80" as="geometry" />
         </mxCell>
         <mxCell id="PMpR4QO55q-T504xtksO-19" value="&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;// 1. 处理关联不上借据的客户信息&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; SqlCbDataExceptionBatchDao.insCustindExp(org_id, batch_date); // 插入异常客户到临时表&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; SqlCbDataExceptionBatchDao.delCustind(); // 删除无效的客户关联&lt;/div&gt;&lt;div&gt;&amp;nbsp;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; // 2. 处理关联不上客户的借据信息&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; SqlCbDataExceptionBatchDao.insBussdueExp(org_id, batch_date); // 插入异常借据到临时表&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; SqlCbDataExceptionBatchDao.delBussdue(); // 删除无效的借据关联&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="1730" y="320" width="610" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="PMpR4QO55q-T504xtksO-21" value="案件合并" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="2470" y="210" width="210" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PMpR4QO55q-T504xtksO-23" value="案件合并旨在解决同一客户针对于不同贷款产品、信用卡存在多条借据，案件生成，哪几个贷款产品的借据分到一组作为一个案件。" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="2417.5" y="40" width="315" height="85" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
