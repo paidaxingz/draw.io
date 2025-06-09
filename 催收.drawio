@@ -59,7 +59,7 @@
           <mxGeometry x="2470" y="210" width="210" height="80" as="geometry" />
         </mxCell>
         <mxCell id="PMpR4QO55q-T504xtksO-23" value="案件合并旨在解决同一客户针对于不同贷款产品、信用卡存在多条借据，案件生成，哪几个贷款产品的借据分到一组作为一个案件。" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="2417.5" y="40" width="315" height="85" as="geometry" />
+          <mxGeometry x="2417.5" y="65" width="315" height="85" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
