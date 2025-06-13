@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="GG1kL3WjIn2xmpMgcM2K-1" value="Honda Dealer" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=21;" vertex="1" parent="1">
-          <mxGeometry x="150" y="100" width="240" height="130" as="geometry" />
+          <mxGeometry x="150" y="100" width="200" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
