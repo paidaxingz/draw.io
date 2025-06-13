@@ -171,7 +171,7 @@
             <mxRectangle width="130" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GG1kL3WjIn2xmpMgcM2K-69" value="Cat" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="GG1kL3WjIn2xmpMgcM2K-67">
+        <mxCell id="GG1kL3WjIn2xmpMgcM2K-69" value="traffic generation" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=16;" vertex="1" parent="GG1kL3WjIn2xmpMgcM2K-67">
           <mxGeometry x="130" width="93" height="40" as="geometry">
             <mxRectangle width="93" height="40" as="alternateBounds" />
           </mxGeometry>
