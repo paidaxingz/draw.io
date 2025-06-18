@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36" version="27.1.6">
   <diagram name="第 1 页" id="4dpDyEQBopwYuxE-ak8q">
-    <mxGraphModel dx="1048" dy="617" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="10000" pageHeight="20000" background="none" math="0" shadow="0">
+    <mxGraphModel dx="715" dy="421" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="10000" pageHeight="20000" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -107,7 +107,7 @@
           <mxGeometry x="3550" y="320" width="570" height="410" as="geometry" />
         </mxCell>
         <mxCell id="FGv0yO4P7MdcKj3J33bq-1" value="cb2411&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;遍历cbt_base_case表&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; 1.外调甲方队列规则组，队列规则定义在Queue Dispatch Strategy菜单中，返回该case的case_code&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(73, 74, 79)); font-size: 9.8pt; font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace;&quot;&gt;&amp;nbsp; 2.cbt_base_case的isAssign_queue设置为“Y”标识甲方是否分队列&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(73, 74, 79)); font-size: 9.8pt; font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace;&quot;&gt;&amp;nbsp; &amp;nbsp; cbt_case_queue的isAssign_queue设置为“N”,乙方是否分队列为“否”&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(73, 74, 79)); font-size: 9.8pt; font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace;&quot;&gt;&amp;nbsp; &amp;nbsp; cbt_case_queue的dispatch_status设置“UNDONE” ，甲方未分案&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(73, 74, 79)); font-size: 9.8pt; font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace;&quot;&gt;&amp;nbsp; &amp;nbsp; 如果催收类型为委外需要同时在cbt_case_queue和cbt_oa_assign插入同一个案件&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace; font-size: 13.0667px;&quot;&gt;&amp;nbsp; &amp;nbsp; 如果催收类型为法诉需要同时在cbt_case_queue和cbt_legal_assign插入同一个案件&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(73, 74, 79)); font-size: 9.8pt; font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace;&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(73, 74, 79)); font-size: 9.8pt; font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace;&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="4140" y="310" width="570" height="410" as="geometry" />
+          <mxGeometry x="4140" y="320" width="570" height="410" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
