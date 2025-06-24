@@ -54,9 +54,6 @@
             <mxPoint x="15" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xVXqPDvNQRGTJrnAG9_0-37" value="Channel_name&amp;nbsp; &amp;nbsp; Rule&lt;div&gt;CreditLimit&amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;span style=&quot;font-size: 20px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;check wether in blacklist&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="2560" y="980" width="200" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="xVXqPDvNQRGTJrnAG9_0-42" value="Authorization List" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="2340" y="1290" width="320" height="116" as="geometry" />
         </mxCell>
