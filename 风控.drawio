@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36" version="27.1.6">
   <diagram name="第 1 页" id="hePbl1foJz42RwPCsduh">
-    <mxGraphModel dx="749" dy="441" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="12000" pageHeight="19020" math="0" shadow="0">
+    <mxGraphModel dx="983" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="12000" pageHeight="19020" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -24,8 +24,8 @@
         <mxCell id="xVXqPDvNQRGTJrnAG9_0-7" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.jumpInArrow;dy=15;dx=38;arrowHead=55;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="1430" y="670" width="70" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="xVXqPDvNQRGTJrnAG9_0-8" value="cust_name：&amp;nbsp; arrent&lt;div&gt;mobile_number：+62-110&lt;/div&gt;&lt;div&gt;KTP：1233432154315432&lt;/div&gt;&lt;div&gt;address：&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="1570" y="740" width="190" height="70" as="geometry" />
+        <mxCell id="xVXqPDvNQRGTJrnAG9_0-8" value="cust_name：&amp;nbsp; arrent&lt;div&gt;mobile_number：+62-110&lt;/div&gt;&lt;div&gt;KTP：1233432154315432&lt;/div&gt;&lt;div&gt;address：Merdeka Palace&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="1560" y="730" width="220" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
