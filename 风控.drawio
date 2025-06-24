@@ -4,13 +4,13 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="xVXqPDvNQRGTJrnAG9_0-17" value="Risk Control" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;verticalAlign=top;fontSize=21;" vertex="1" parent="1">
+        <mxCell id="xVXqPDvNQRGTJrnAG9_0-17" value="Risk Control" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;verticalAlign=top;fontSize=32;" vertex="1" parent="1">
           <mxGeometry x="1870" y="1150" width="1240" height="830" as="geometry" />
         </mxCell>
         <mxCell id="xVXqPDvNQRGTJrnAG9_0-1" value="Credit Limit" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="1250" y="780" width="240" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="xVXqPDvNQRGTJrnAG9_0-3" value="Rish Control" style="rounded=0;whiteSpace=wrap;html=1;fontSize=21;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="xVXqPDvNQRGTJrnAG9_0-3" value="Risk Control" style="rounded=0;whiteSpace=wrap;html=1;fontSize=21;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="1870" y="740" width="300" height="150" as="geometry" />
         </mxCell>
         <mxCell id="xVXqPDvNQRGTJrnAG9_0-5" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Plz tell is this guy in the blacklist of OJK&lt;/font&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
