@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36" version="27.1.6">
   <diagram name="第 1 页" id="hePbl1foJz42RwPCsduh">
-    <mxGraphModel dx="1310" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="12000" pageHeight="19020" math="0" shadow="0">
+    <mxGraphModel dx="1429" dy="842" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="12000" pageHeight="19020" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -43,18 +43,38 @@
         <mxCell id="xVXqPDvNQRGTJrnAG9_0-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.393;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;" edge="1" parent="1" source="xVXqPDvNQRGTJrnAG9_0-16" target="xVXqPDvNQRGTJrnAG9_0-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xVXqPDvNQRGTJrnAG9_0-21" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2320" y="1260" width="500" height="210" as="geometry" />
-        </mxCell>
-        <mxCell id="xVXqPDvNQRGTJrnAG9_0-22" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.001;entryY=0.438;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;" edge="1" parent="1" target="xVXqPDvNQRGTJrnAG9_0-21">
+        <mxCell id="xVXqPDvNQRGTJrnAG9_0-22" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.001;entryY=0.438;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="2160" y="1350" as="sourcePoint" />
-            <mxPoint x="2220" y="1320" as="targetPoint" />
+            <mxPoint x="2320.5000000000005" y="1351.98" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="xVXqPDvNQRGTJrnAG9_0-23" value="Check" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=24;" vertex="1" connectable="0" parent="xVXqPDvNQRGTJrnAG9_0-22">
           <mxGeometry x="-0.3214" y="-1" relative="1" as="geometry">
             <mxPoint x="15" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xVXqPDvNQRGTJrnAG9_0-37" value="Channel_name&amp;nbsp; &amp;nbsp; Rule&lt;div&gt;CreditLimit&amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;span style=&quot;font-size: 20px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;check wether in blacklist&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2560" y="980" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xVXqPDvNQRGTJrnAG9_0-42" value="Authorization List" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="2340" y="1290" width="320" height="116" as="geometry" />
+        </mxCell>
+        <mxCell id="xVXqPDvNQRGTJrnAG9_0-43" value="Channel_Name&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Rule can be used" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;whiteSpace=wrap;html=1;" vertex="1" parent="xVXqPDvNQRGTJrnAG9_0-42">
+          <mxGeometry y="26" width="320" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xVXqPDvNQRGTJrnAG9_0-44" value="Credit Limit&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;blacklist check" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;whiteSpace=wrap;html=1;" vertex="1" parent="xVXqPDvNQRGTJrnAG9_0-42">
+          <mxGeometry y="56" width="320" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xVXqPDvNQRGTJrnAG9_0-45" value="Post-Loan" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;whiteSpace=wrap;html=1;" vertex="1" parent="xVXqPDvNQRGTJrnAG9_0-42">
+          <mxGeometry y="86" width="320" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xVXqPDvNQRGTJrnAG9_0-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.179;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;strokeColor=light-dark(#f90606, #ededed);" edge="1" parent="1" source="xVXqPDvNQRGTJrnAG9_0-42" target="xVXqPDvNQRGTJrnAG9_0-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xVXqPDvNQRGTJrnAG9_0-47" value="No authorization, cannot access." style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=21;" vertex="1" connectable="0" parent="xVXqPDvNQRGTJrnAG9_0-46">
+          <mxGeometry x="-0.1633" y="-5" relative="1" as="geometry">
+            <mxPoint x="-11" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
