@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36" version="27.1.6">
   <diagram name="第 1 页" id="hePbl1foJz42RwPCsduh">
-    <mxGraphModel dx="1572" dy="926" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="12000" pageHeight="19020" math="0" shadow="0">
+    <mxGraphModel dx="1429" dy="842" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="12000" pageHeight="19020" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -60,7 +60,7 @@
         <mxCell id="xVXqPDvNQRGTJrnAG9_0-42" value="Authorization List" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="2340" y="1290" width="320" height="116" as="geometry" />
         </mxCell>
-        <mxCell id="xVXqPDvNQRGTJrnAG9_0-43" value="Channel_Name&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Rule can be used" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;whiteSpace=wrap;html=1;" vertex="1" parent="xVXqPDvNQRGTJrnAG9_0-42">
+        <mxCell id="xVXqPDvNQRGTJrnAG9_0-43" value="&lt;font style=&quot;color: rgb(255, 0, 0);&quot;&gt;Channel_Name&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Rule can be used&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;whiteSpace=wrap;html=1;" vertex="1" parent="xVXqPDvNQRGTJrnAG9_0-42">
           <mxGeometry y="26" width="320" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xVXqPDvNQRGTJrnAG9_0-44" value="Credit Limit&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;blacklist check" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=16;whiteSpace=wrap;html=1;" vertex="1" parent="xVXqPDvNQRGTJrnAG9_0-42">
@@ -104,7 +104,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xVXqPDvNQRGTJrnAG9_0-59" value="Distribute requests to different queues based on business scenarios." style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;fontColor=light-dark(#cd1313, #EDEDED);fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="3230" y="1208.5" width="220" height="170" as="geometry" />
+          <mxGeometry x="3230" y="1208.5" width="250" height="191.5" as="geometry" />
         </mxCell>
         <mxCell id="xVXqPDvNQRGTJrnAG9_0-60" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.jumpInArrow;dy=15;dx=38;arrowHead=55;fillColor=#d5e8d4;strokeColor=#82b366;gradientColor=#97d077;" vertex="1" parent="1">
           <mxGeometry x="3100" y="1270" width="140" height="90" as="geometry" />
