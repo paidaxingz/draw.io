@@ -1,22 +1,14 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36" version="27.1.6">
   <diagram name="第 1 页" id="hePbl1foJz42RwPCsduh">
-    <mxGraphModel dx="983" dy="579" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="12000" pageHeight="19020" math="0" shadow="0">
+    <mxGraphModel dx="582" dy="343" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="12000" pageHeight="19020" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="xVXqPDvNQRGTJrnAG9_0-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xVXqPDvNQRGTJrnAG9_0-1" target="xVXqPDvNQRGTJrnAG9_0-3">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1780" y="820" />
-              <mxPoint x="1780" y="820" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="xVXqPDvNQRGTJrnAG9_0-1" value="Credit Limit" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="1250" y="780" width="240" height="80" as="geometry" />
+          <mxGeometry x="1250" y="780" width="240" height="90" as="geometry" />
         </mxCell>
         <mxCell id="xVXqPDvNQRGTJrnAG9_0-3" value="Rish Control" style="rounded=0;whiteSpace=wrap;html=1;fontSize=21;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="1870" y="750" width="300" height="140" as="geometry" />
+          <mxGeometry x="1870" y="740" width="300" height="150" as="geometry" />
         </mxCell>
         <mxCell id="xVXqPDvNQRGTJrnAG9_0-5" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Plz tell is this guy in the blacklist of OJK&lt;/font&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="1490" y="610" width="230" height="120" as="geometry" />
@@ -26,6 +18,15 @@
         </mxCell>
         <mxCell id="xVXqPDvNQRGTJrnAG9_0-8" value="cust_name：&amp;nbsp; arrent&lt;div&gt;mobile_number：+62-110&lt;/div&gt;&lt;div&gt;KTP：1233432154315432&lt;/div&gt;&lt;div&gt;address：Merdeka Palace&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="1560" y="730" width="220" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="xVXqPDvNQRGTJrnAG9_0-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.013;entryY=0.578;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="xVXqPDvNQRGTJrnAG9_0-1" target="xVXqPDvNQRGTJrnAG9_0-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xVXqPDvNQRGTJrnAG9_0-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1.002;entryY=0.842;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#e51400;strokeColor=#B20000;" edge="1" parent="1" source="xVXqPDvNQRGTJrnAG9_0-3" target="xVXqPDvNQRGTJrnAG9_0-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xVXqPDvNQRGTJrnAG9_0-14" value="Oh, this person is on the OJK blacklist. He is a very bad person who likes to owe money without repaying it." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1540" y="870" width="290" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
