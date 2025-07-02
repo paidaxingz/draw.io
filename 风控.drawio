@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36" version="27.1.6">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="27.2.0">
   <diagram name="第 1 页" id="hePbl1foJz42RwPCsduh">
-    <mxGraphModel dx="1310" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="12000" pageHeight="19020" math="0" shadow="0">
+    <mxGraphModel dx="2022" dy="1132" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="12000" pageHeight="19020" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -161,27 +161,27 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Cy6I5vB1TvJVHL9HmjDm-4" value="&lt;span style=&quot;font-size: 18px; text-wrap-mode: wrap; background-color: rgb(236, 236, 236);&quot;&gt;Cust_name(Arrent)&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="xVXqPDvNQRGTJrnAG9_0-79">
+        <mxCell id="Cy6I5vB1TvJVHL9HmjDm-4" value="&lt;span style=&quot;font-size: 18px; text-wrap-mode: wrap; background-color: rgb(236, 236, 236);&quot;&gt;Cust_name(Arrent)&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="xVXqPDvNQRGTJrnAG9_0-79" vertex="1" connectable="0">
           <mxGeometry x="0.0644" y="3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Cy6I5vB1TvJVHL9HmjDm-1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;BlackList from OJK&amp;nbsp; &amp;nbsp;==&amp;nbsp; &amp;nbsp; Cust_name(Arrent)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="Cy6I5vB1TvJVHL9HmjDm-1" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;BlackList from OJK&amp;nbsp; &amp;nbsp;==&amp;nbsp; &amp;nbsp; Cust_name(Arrent)&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="2360" y="1665" width="570" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Cy6I5vB1TvJVHL9HmjDm-3" value="I don&#39;t have a blacklist. I need to send a request to the external data source(OJK) to obtain the blacklist." style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fontSize=20;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="Cy6I5vB1TvJVHL9HmjDm-3" value="don&#39;t have a blacklist. I need to send a request to the external data source(OJK) to obtain the blacklist." style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fontSize=20;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="2700" y="1840" width="490" height="250" as="geometry" />
         </mxCell>
-        <mxCell id="Cy6I5vB1TvJVHL9HmjDm-5" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.jumpInArrow;dy=15;dx=38;arrowHead=55;direction=south;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="Cy6I5vB1TvJVHL9HmjDm-5" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.jumpInArrow;dy=15;dx=38;arrowHead=55;direction=south;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="2560" y="1710" width="240" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="Cy6I5vB1TvJVHL9HmjDm-6" value="&lt;div&gt;&lt;font style=&quot;color: rgb(178, 102, 255);&quot;&gt;DataSource: getBlackListFormOJK&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(178, 102, 255);&quot;&gt;Request address: https://ojk.go.id/blacklist&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(255, 51, 153);&quot;&gt;Request parameter configuration:&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#ff3399&quot;&gt;access_key:&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(255, 51, 153);&quot;&gt;&lt;div style=&quot;color: rgb(0, 0, 0);&quot;&gt;&lt;font style=&quot;color: rgb(255, 51, 153);&quot;&gt;Response parameter configuration:&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(0, 0, 0);&quot;&gt;&lt;font color=&quot;#ff3399&quot;&gt;blacklist:&lt;/font&gt;&lt;/div&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="Cy6I5vB1TvJVHL9HmjDm-6" value="&lt;div&gt;&lt;font style=&quot;color: rgb(178, 102, 255);&quot;&gt;DataSource: getBlackListFormOJK&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(178, 102, 255);&quot;&gt;Request address: https://ojk.go.id/blacklist&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(255, 51, 153);&quot;&gt;Request parameter configuration:&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#ff3399&quot;&gt;access_key:&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;color: rgb(255, 51, 153);&quot;&gt;&lt;div style=&quot;color: rgb(0, 0, 0);&quot;&gt;&lt;font style=&quot;color: rgb(255, 51, 153);&quot;&gt;Response parameter configuration:&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;color: rgb(0, 0, 0);&quot;&gt;&lt;font color=&quot;#ff3399&quot;&gt;blacklist:&lt;/font&gt;&lt;/div&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="1986.25" y="1620" width="283.75" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="Cy6I5vB1TvJVHL9HmjDm-10" value="HTTP Request:{&lt;div&gt;ip:&lt;a style=&quot;-webkit-font-smoothing: antialiased; box-sizing: border-box; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); color: rgb(9, 105, 218); text-decoration-line: none; background-color: rgb(255, 255, 255); overflow-anchor: auto; font-family: Inter, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, &amp;quot;SF Pro SC&amp;quot;, &amp;quot;SF Pro Display&amp;quot;, &amp;quot;SF Pro Icons&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; text-align: start;&quot; target=&quot;_blank&quot; href=&quot;https://ojk.go.id/blacklist&quot; class=&quot;link-U03S2y&quot;&gt;https://ojk.go.id/blacklist&lt;/a&gt;&lt;/div&gt;&lt;div&gt;params:{&lt;/div&gt;&lt;div&gt;&quot;access_key:&quot;afergfdbgdfsbdf&quot;&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;" vertex="1" parent="1">
+        <mxCell id="Cy6I5vB1TvJVHL9HmjDm-10" value="HTTP Request:{&lt;div&gt;ip:&lt;a style=&quot;-webkit-font-smoothing: antialiased; box-sizing: border-box; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); color: rgb(9, 105, 218); text-decoration-line: none; background-color: rgb(255, 255, 255); overflow-anchor: auto; font-family: Inter, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, &amp;quot;SF Pro SC&amp;quot;, &amp;quot;SF Pro Display&amp;quot;, &amp;quot;SF Pro Icons&amp;quot;, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; text-align: start;&quot; target=&quot;_blank&quot; href=&quot;https://ojk.go.id/blacklist&quot; class=&quot;link-U03S2y&quot;&gt;https://ojk.go.id/blacklist&lt;/a&gt;&lt;/div&gt;&lt;div&gt;params:{&lt;/div&gt;&lt;div&gt;&quot;access_key:&quot;afergfdbgdfsbdf&quot;&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;&lt;div&gt;}&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=22;" parent="1" vertex="1">
           <mxGeometry x="1530" y="1490" width="500" height="250" as="geometry" />
         </mxCell>
-        <mxCell id="Cy6I5vB1TvJVHL9HmjDm-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="xVXqPDvNQRGTJrnAG9_0-62" target="xVXqPDvNQRGTJrnAG9_0-14">
+        <mxCell id="Cy6I5vB1TvJVHL9HmjDm-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="xVXqPDvNQRGTJrnAG9_0-62" target="xVXqPDvNQRGTJrnAG9_0-14" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="2840" y="1778" />
@@ -191,12 +191,12 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Cy6I5vB1TvJVHL9HmjDm-13" value="YES" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=19;" vertex="1" connectable="0" parent="Cy6I5vB1TvJVHL9HmjDm-11">
+        <mxCell id="Cy6I5vB1TvJVHL9HmjDm-13" value="YES" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=19;" parent="Cy6I5vB1TvJVHL9HmjDm-11" vertex="1" connectable="0">
           <mxGeometry x="-0.975" relative="1" as="geometry">
             <mxPoint y="18" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Cy6I5vB1TvJVHL9HmjDm-12" value="check &quot;arrent&quot; whether in blacklist from OJK" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF3333;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="Cy6I5vB1TvJVHL9HmjDm-12" value="check &quot;arrent&quot; whether in blacklist from OJK" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF3333;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="2520" y="1740" width="330" height="40" as="geometry" />
         </mxCell>
       </root>
