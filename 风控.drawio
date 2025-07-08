@@ -292,6 +292,12 @@
         <mxCell id="2F6HlqF7lBnHhrqcM4Yx-28" value="Is public housing saving customer" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="4350" y="2880" width="200" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="2F6HlqF7lBnHhrqcM4Yx-31" value="housing area in jartakta and avg house price &amp;gt; 10000 and Risk grade =&#39;A&#39; give 0.7" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="4675" y="2690" width="250" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="2F6HlqF7lBnHhrqcM4Yx-32" value="housing area in jartakta and avg house price &amp;gt; 10000 and Risk grade =&#39;A&#39; give 0.55" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="4675" y="3100" width="250" height="70" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
