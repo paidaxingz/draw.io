@@ -316,6 +316,9 @@
         <mxCell id="2F6HlqF7lBnHhrqcM4Yx-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.005;entryY=0.603;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="2F6HlqF7lBnHhrqcM4Yx-33" target="2F6HlqF7lBnHhrqcM4Yx-37">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="2F6HlqF7lBnHhrqcM4Yx-39" value="risk grade within (&#39;E&#39;, &#39;F&#39;, &#39;G&#39;),&lt;div&gt;&amp;nbsp;don&#39;t give credit limit&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="5500" y="3010" width="190" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
