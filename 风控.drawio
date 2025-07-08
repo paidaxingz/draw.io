@@ -257,7 +257,7 @@
           <mxGeometry x="4120" y="2880" width="200" height="100" as="geometry" />
         </mxCell>
         <mxCell id="2F6HlqF7lBnHhrqcM4Yx-20" value="if (&lt;span style=&quot;font-size: 15px;&quot;&gt;credit report score) &amp;gt; 90 and housing saving score&amp;gt; 70, give &#39;A&#39;&lt;/span&gt;&lt;div&gt;if (&lt;span style=&quot;font-size: 15px;&quot;&gt;credit report score) &amp;gt; 90 and 70&amp;gt; housing saving score&amp;gt; 50, give &#39;B&#39;&lt;/span&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="4080" y="3000" width="280" height="90" as="geometry" />
+          <mxGeometry x="4075" y="2990" width="290" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
