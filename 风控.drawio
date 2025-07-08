@@ -214,11 +214,20 @@
         <mxCell id="2F6HlqF7lBnHhrqcM4Yx-3" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;KTP xxxxxx150896xxxx&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;birth date 19960805 so age is 29&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;text-align: start; text-wrap-mode: wrap;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;getAge function is configurable&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1785" y="2980" width="230" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="2F6HlqF7lBnHhrqcM4Yx-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2F6HlqF7lBnHhrqcM4Yx-5" target="2F6HlqF7lBnHhrqcM4Yx-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="2F6HlqF7lBnHhrqcM4Yx-5" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;span style=&quot;font-size: 15px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;3.A Rule Set check include 2 rules&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="2200" y="2880" width="270" height="100" as="geometry" />
         </mxCell>
         <mxCell id="2F6HlqF7lBnHhrqcM4Yx-7" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;rule 1: age must greater than 20 less than 60&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;rule 2: this guy can&#39;t be in the blacklist of risk control center&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="2150" y="2980" width="390" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="2F6HlqF7lBnHhrqcM4Yx-8" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="2330" y="3300" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2F6HlqF7lBnHhrqcM4Yx-10" value="If (the person) is on the blacklist or does not meet the age requirement, the application is rejected." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="2190" y="3100" width="330" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
