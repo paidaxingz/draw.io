@@ -340,6 +340,12 @@
         <mxCell id="ul3Z3fU9MztXcmBz000f-7" value="E_LOAN_RISK_GRADE" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="4145" y="2820" width="150" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="ul3Z3fU9MztXcmBz000f-8" value="E loan Provident Fund Customer Rating" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="4670" y="2890" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ul3Z3fU9MztXcmBz000f-9" value="E loan Non Provident Fund Customer Rating" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="4675" y="3160" width="260" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
