@@ -337,6 +337,9 @@
         <mxCell id="ul3Z3fU9MztXcmBz000f-6" value="E_LOAN_INNER_DATA" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="3680" y="3010" width="150" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="ul3Z3fU9MztXcmBz000f-7" value="E_LOAN_RISK_GRADE" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="4145" y="2820" width="150" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
