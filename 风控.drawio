@@ -346,6 +346,9 @@
         <mxCell id="ul3Z3fU9MztXcmBz000f-9" value="E loan Non Provident Fund Customer Rating" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="4675" y="3160" width="260" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="ul3Z3fU9MztXcmBz000f-10" value="Caclculate_Credit_Limit" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="5105" y="3060" width="150" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
