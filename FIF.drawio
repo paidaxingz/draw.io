@@ -13,10 +13,10 @@
         <mxCell id="2tATx8U5crz87mJ9fzrl-5" value="Role2" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#005F4B;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam2.role;" vertex="1" parent="1">
           <mxGeometry x="505" y="440" width="50" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2tATx8U5crz87mJ9fzrl-6" value="MAF" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="2tATx8U5crz87mJ9fzrl-6" value="Branch1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="275" y="620" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2tATx8U5crz87mJ9fzrl-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="2tATx8U5crz87mJ9fzrl-7" value="Branch2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="620" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
