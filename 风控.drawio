@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="28.0.4">
   <diagram name="第 1 页" id="hePbl1foJz42RwPCsduh">
-    <mxGraphModel dx="1011" dy="566" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="12000" pageHeight="19020" math="0" shadow="0">
+    <mxGraphModel dx="1213" dy="679" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="12000" pageHeight="19020" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -292,10 +292,10 @@
         <mxCell id="2F6HlqF7lBnHhrqcM4Yx-25" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;8.decision table&lt;/font&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;credit limit rating&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" parent="1" vertex="1">
           <mxGeometry x="4700" y="2990" width="200" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="2F6HlqF7lBnHhrqcM4Yx-31" value="&amp;nbsp;Risk grade =&#39;A&#39; give 0.7" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="2F6HlqF7lBnHhrqcM4Yx-31" value="&amp;nbsp;Risk grade =&#39;A&#39; give 0.55" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="4675" y="2690" width="250" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="2F6HlqF7lBnHhrqcM4Yx-32" value="Risk grade =&#39;A&#39; give 0.55" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="2F6HlqF7lBnHhrqcM4Yx-32" value="Risk grade =&#39;A&#39; give 0.7" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="4675" y="3100" width="250" height="70" as="geometry" />
         </mxCell>
         <mxCell id="2F6HlqF7lBnHhrqcM4Yx-33" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;9.caclculate the credit limit&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" parent="1" vertex="1">
