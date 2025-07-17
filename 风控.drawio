@@ -331,11 +331,11 @@
         <mxCell id="ul3Z3fU9MztXcmBz000f-7" value="CASH_LOAN_RISK_GRADE" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="4130" y="2820" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ul3Z3fU9MztXcmBz000f-8" value="E loan Provident Fund Customer Rating" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="4670" y="2890" width="240" height="30" as="geometry" />
+        <mxCell id="ul3Z3fU9MztXcmBz000f-8" value="CASH loan Multi-Borrowing Rating" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="4685" y="2890" width="210" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ul3Z3fU9MztXcmBz000f-9" value="E loan Non Provident Fund Customer Rating" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="4675" y="3160" width="260" height="30" as="geometry" />
+        <mxCell id="ul3Z3fU9MztXcmBz000f-9" value="E loan Non Multi-Borrowing&amp;nbsp;&amp;nbsp;Rating" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="4700" y="3160" width="210" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ul3Z3fU9MztXcmBz000f-10" value="Caclculate_Credit_Limit" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="5105" y="3060" width="150" height="30" as="geometry" />
