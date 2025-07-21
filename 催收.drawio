@@ -112,7 +112,7 @@
         <mxCell id="JcITSrxmDGqOZ383El8--2" value="cb2410&lt;div&gt;&amp;nbsp; 根据乙方自己定义的队列策略更新cbt_case_queue乙方法人记录的queue_code&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="4770" y="345" width="310" height="340" as="geometry" />
         </mxCell>
-        <mxCell id="JcITSrxmDGqOZ383El8--3" value="cb2412&lt;div&gt;&amp;nbsp; 根据乙方自己定义的队列策略更新cbt_case_queue的queue_code&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
+        <mxCell id="JcITSrxmDGqOZ383El8--3" value="cb2412&lt;div&gt;&amp;nbsp; &amp;nbsp; 同甲方分案的逻辑一样&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="5320" y="345" width="310" height="340" as="geometry" />
         </mxCell>
       </root>
