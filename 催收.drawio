@@ -121,6 +121,9 @@
         <mxCell id="0ts_A9WLRb4w_83XAnKr-1" value="&lt;b&gt;&amp;nbsp;cbt_base_case 索引&lt;/b&gt;&lt;div&gt;&lt;b&gt;cb0085,cb0091，cb0120&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="5440" y="793" width="160" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="0ts_A9WLRb4w_83XAnKr-2" value="保存催记cb0108" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="5725" y="708" width="110" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
