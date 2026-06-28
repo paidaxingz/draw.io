@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="lVwstilUrYT9_uCn2ERu">
-    <mxGraphModel dx="1783" dy="1155" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
+    <mxGraphModel dx="2377" dy="1540" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -137,10 +137,10 @@
           <mxGeometry height="190" width="790" x="2550" y="4220" as="geometry" />
         </mxCell>
         <mxCell id="oC6CRMKuLgZMxtYo50sP-17" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=#FF3333;fontSize=42;" value="Action Point 5" vertex="1">
-          <mxGeometry height="30" width="310" x="2510" y="4810" as="geometry" />
+          <mxGeometry height="30" width="310" x="2540" y="5010" as="geometry" />
         </mxCell>
         <mxCell id="oC6CRMKuLgZMxtYo50sP-18" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=40;fontColor=#000000;" value="5.LOS calls Message Notification Interface to send E-sign data(e-sign address) to Vello." vertex="1">
-          <mxGeometry height="190" width="790" x="2560" y="4810" as="geometry" />
+          <mxGeometry height="190" width="790" x="2550" y="5040" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
