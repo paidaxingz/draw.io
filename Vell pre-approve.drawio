@@ -149,7 +149,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="oC6CRMKuLgZMxtYo50sP-25" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=34;fontColor=#FF3333;" value="* After completing Data Entry throughout the entire Pre-Approve process, Vello may query the approval status (Pending , Rejected, Approved) via the los0004 interface." vertex="1">
-          <mxGeometry height="270" width="860" x="2570" y="4440" as="geometry" />
+          <mxGeometry height="270" width="880" x="2840" y="2970" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
