@@ -115,6 +115,12 @@
         <mxCell id="oC6CRMKuLgZMxtYo50sP-10" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=40;fontColor=#000000;" value="2.LOS pushes maximum credit limit to Vello – API code pending definition, interface name: Notifikasi Struktur Kredit&amp;nbsp;" vertex="1">
           <mxGeometry height="190" width="840" x="3340" y="1600" as="geometry" />
         </mxCell>
+        <mxCell id="oC6CRMKuLgZMxtYo50sP-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=#FF3333;fontSize=42;" value="Action Point 3" vertex="1">
+          <mxGeometry height="30" width="310" x="2040" y="2900" as="geometry" />
+        </mxCell>
+        <mxCell id="oC6CRMKuLgZMxtYo50sP-13" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=40;fontColor=#000000;" value="3.Vello calls interface los0005 to complete data entry" vertex="1">
+          <mxGeometry height="190" width="720" x="2620" y="2820" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
