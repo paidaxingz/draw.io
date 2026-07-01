@@ -248,6 +248,9 @@
         <mxCell id="xT0jzttjgFg6_JrwmXi3-35" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=9;" value="&lt;p data-pm-slice=&quot;0 0 []&quot;&gt;Congratulations, Sir. You have been pre-approved for a KMG conventional loan. The maximum loan amount is 1,000,000, with a maximum tenure of 120 months.&lt;/p&gt;" vertex="1">
           <mxGeometry height="80" width="130" x="910" y="90" as="geometry" />
         </mxCell>
+        <mxCell id="xT0jzttjgFg6_JrwmXi3-36" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=7;" value="&lt;p data-pm-slice=&quot;0 0 []&quot;&gt;1.Recommended Loan Amount&lt;/p&gt;&lt;p&gt;2.Recommended Interest Rate&lt;/p&gt;&lt;p&gt;3.Recommended Provision Fee Rate&lt;/p&gt;" vertex="1">
+          <mxGeometry height="60" width="115" x="475" y="45" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
