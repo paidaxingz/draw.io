@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="lVwstilUrYT9_uCn2ERu">
-    <mxGraphModel dx="796" dy="2253" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
+    <mxGraphModel dx="663" dy="2197" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -235,7 +235,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xT0jzttjgFg6_JrwmXi3-40" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;" value="cust input:&lt;div&gt;1.upload KTP&lt;/div&gt;&lt;div&gt;2.email&lt;/div&gt;&lt;div&gt;3.Alamat domisili&lt;/div&gt;&lt;div&gt;4.Emergency Contact&lt;/div&gt;" vertex="1">
-          <mxGeometry height="125" width="250" x="1140" y="250" as="geometry" />
+          <mxGeometry height="125" width="250" x="1122.5" y="250" as="geometry" />
         </mxCell>
         <mxCell id="xT0jzttjgFg6_JrwmXi3-58" edge="1" parent="1" source="xT0jzttjgFg6_JrwmXi3-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" target="xT0jzttjgFg6_JrwmXi3-57">
           <mxGeometry relative="1" as="geometry" />
