@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="lVwstilUrYT9_uCn2ERu">
-    <mxGraphModel dx="578" dy="2292" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
+    <mxGraphModel dx="657" dy="2343" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -357,6 +357,9 @@
         </mxCell>
         <mxCell id="xT0jzttjgFg6_JrwmXi3-75" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="show the loan offer in Vello Inbox" vertex="1">
           <mxGeometry height="50" width="115" x="1110" y="560" as="geometry" />
+        </mxCell>
+        <mxCell id="xT0jzttjgFg6_JrwmXi3-77" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="cust choose agree/disagree" vertex="1">
+          <mxGeometry height="50" width="115" x="1290" y="610" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
