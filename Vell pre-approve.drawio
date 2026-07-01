@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="lVwstilUrYT9_uCn2ERu">
-    <mxGraphModel dx="663" dy="2197" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
+    <mxGraphModel dx="1085" dy="2374" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -220,7 +220,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="xT0jzttjgFg6_JrwmXi3-31" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="show in Vello Inbox" vertex="1">
-          <mxGeometry height="60" width="120" x="1205" y="50" as="geometry" />
+          <mxGeometry height="60" width="120" x="1187.5" y="60" as="geometry" />
         </mxCell>
         <mxCell id="xT0jzttjgFg6_JrwmXi3-34" edge="1" parent="1" source="xT0jzttjgFg6_JrwmXi3-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=-0.008;entryY=0.41;entryDx=0;entryDy=0;entryPerimeter=0;" target="xT0jzttjgFg6_JrwmXi3-31">
           <mxGeometry relative="1" as="geometry" />
