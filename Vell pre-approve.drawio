@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="lVwstilUrYT9_uCn2ERu">
-    <mxGraphModel dx="995" dy="2336" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
+    <mxGraphModel dx="1194" dy="2419" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -209,7 +209,7 @@
           <mxGeometry height="70" width="105" x="860" y="195" as="geometry" />
         </mxCell>
         <mxCell id="xT0jzttjgFg6_JrwmXi3-30" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;align=center;verticalAlign=top;" value="Vello" vertex="1">
-          <mxGeometry height="1290" width="440" x="1060" y="-250" as="geometry" />
+          <mxGeometry height="1460" width="440" x="1060" y="-250" as="geometry" />
         </mxCell>
         <mxCell id="xT0jzttjgFg6_JrwmXi3-41" edge="1" parent="1" source="xT0jzttjgFg6_JrwmXi3-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="xT0jzttjgFg6_JrwmXi3-40">
           <mxGeometry relative="1" as="geometry" />
@@ -447,6 +447,9 @@
         </mxCell>
         <mxCell id="xT0jzttjgFg6_JrwmXi3-135" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=9;" value="&lt;p data-pm-slice=&quot;0 0 []&quot;&gt;Congratulations, Sir. You have been Approved for a KMG conventional loan. The maximum loan amount is 1,000,000, with a maximum tenure of 120 months max installment is IDR 67.00.00&lt;/p&gt;" vertex="1">
           <mxGeometry height="80" width="130" x="930" y="610" as="geometry" />
+        </mxCell>
+        <mxCell id="xT0jzttjgFg6_JrwmXi3-141" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Gaji&amp;nbsp; TKD MPP" vertex="1">
+          <mxGeometry height="30" width="180" x="1480" y="75" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
