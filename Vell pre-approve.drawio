@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="lVwstilUrYT9_uCn2ERu">
-    <mxGraphModel dx="1808" dy="3083" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
+    <mxGraphModel dx="1033" dy="2540" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -817,6 +817,92 @@
         </mxCell>
         <mxCell id="tc9y9bP_BvN_sT0SP0Yx-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=40;fontColor=#000000;" value="3.Vello calls los0003 for loan application submission" vertex="1">
           <mxGeometry height="190" width="850" x="3310" y="6000" as="geometry" />
+        </mxCell>
+        <mxCell id="D_QlqwQmMEC-p74D2eHZ-17" edge="1" parent="1" source="D_QlqwQmMEC-p74D2eHZ-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.017;entryY=0.419;entryDx=0;entryDy=0;entryPerimeter=0;" target="D_QlqwQmMEC-p74D2eHZ-22">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2820" y="-940" />
+              <mxPoint x="2820" y="-835" />
+            </Array>
+            <mxPoint x="2865.5" y="-835" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="D_QlqwQmMEC-p74D2eHZ-18" connectable="0" parent="D_QlqwQmMEC-p74D2eHZ-17" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Non Payroll" vertex="1">
+          <mxGeometry relative="1" x="-0.0643" y="-2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="D_QlqwQmMEC-p74D2eHZ-1" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="Payroll or not" vertex="1">
+          <mxGeometry height="90" width="87" x="2680" y="-985" as="geometry" />
+        </mxCell>
+        <mxCell id="D_QlqwQmMEC-p74D2eHZ-6" edge="1" parent="1" source="D_QlqwQmMEC-p74D2eHZ-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="D_QlqwQmMEC-p74D2eHZ-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2980" y="-1065" />
+              <mxPoint x="2980" y="-1190" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="D_QlqwQmMEC-p74D2eHZ-10" connectable="0" parent="D_QlqwQmMEC-p74D2eHZ-6" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&amp;gt; 2M" vertex="1">
+          <mxGeometry relative="1" x="0.1344" y="2" as="geometry">
+            <mxPoint x="4" y="52" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="D_QlqwQmMEC-p74D2eHZ-9" edge="1" parent="1" source="D_QlqwQmMEC-p74D2eHZ-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="D_QlqwQmMEC-p74D2eHZ-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2980" y="-1065" />
+              <mxPoint x="2980" y="-940" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="D_QlqwQmMEC-p74D2eHZ-13" connectable="0" parent="D_QlqwQmMEC-p74D2eHZ-9" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&amp;lt; 1M" vertex="1">
+          <mxGeometry relative="1" x="0.4543" y="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="D_QlqwQmMEC-p74D2eHZ-2" parent="1" style="rhombus;whiteSpace=wrap;html=1;" value="Limit judge" vertex="1">
+          <mxGeometry height="90" width="87" x="2873" y="-1110" as="geometry" />
+        </mxCell>
+        <mxCell id="D_QlqwQmMEC-p74D2eHZ-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Setingkat Grup Head" vertex="1">
+          <mxGeometry height="60" width="120" x="3120" y="-1220" as="geometry" />
+        </mxCell>
+        <mxCell id="D_QlqwQmMEC-p74D2eHZ-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Setingkat Pemimpin Divisi" vertex="1">
+          <mxGeometry height="60" width="120" x="3120" y="-1100" as="geometry" />
+        </mxCell>
+        <mxCell id="D_QlqwQmMEC-p74D2eHZ-7" edge="1" parent="1" source="D_QlqwQmMEC-p74D2eHZ-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.026;entryY=0.593;entryDx=0;entryDy=0;entryPerimeter=0;" target="D_QlqwQmMEC-p74D2eHZ-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="D_QlqwQmMEC-p74D2eHZ-12" connectable="0" parent="D_QlqwQmMEC-p74D2eHZ-7" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&amp;gt;1M&amp;nbsp; &amp;amp;&amp;amp; &amp;lt; 2M&amp;nbsp;" vertex="1">
+          <mxGeometry relative="1" x="0.0211" y="3" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="D_QlqwQmMEC-p74D2eHZ-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;div&gt;Setingkat Manajer (di Loan&lt;/div&gt;&lt;div&gt;Factory)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="3120" y="-970" as="geometry" />
+        </mxCell>
+        <mxCell id="D_QlqwQmMEC-p74D2eHZ-14" edge="1" parent="1" source="D_QlqwQmMEC-p74D2eHZ-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.003;entryY=0.449;entryDx=0;entryDy=0;entryPerimeter=0;" target="D_QlqwQmMEC-p74D2eHZ-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="D_QlqwQmMEC-p74D2eHZ-15" connectable="0" parent="D_QlqwQmMEC-p74D2eHZ-14" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="payroll" vertex="1">
+          <mxGeometry relative="1" x="0.0608" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="D_QlqwQmMEC-p74D2eHZ-19" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Setingkat Grup Head" vertex="1">
+          <mxGeometry height="60" width="120" x="3400" y="-860" as="geometry" />
+        </mxCell>
+        <mxCell id="D_QlqwQmMEC-p74D2eHZ-24" edge="1" parent="1" source="D_QlqwQmMEC-p74D2eHZ-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="D_QlqwQmMEC-p74D2eHZ-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="D_QlqwQmMEC-p74D2eHZ-21" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Setingkat Pemimpin Divisi" vertex="1">
+          <mxGeometry height="60" width="120" x="3190" y="-860" as="geometry" />
+        </mxCell>
+        <mxCell id="D_QlqwQmMEC-p74D2eHZ-23" edge="1" parent="1" source="D_QlqwQmMEC-p74D2eHZ-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="D_QlqwQmMEC-p74D2eHZ-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="D_QlqwQmMEC-p74D2eHZ-22" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="&lt;div&gt;Setingkat Manajer (di Loan&lt;/div&gt;&lt;div&gt;Factory)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="2985" y="-860" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
